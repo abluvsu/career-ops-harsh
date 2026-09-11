@@ -1,0 +1,240 @@
+{
+  "CV_OUTPUT": "Harsh_Goyal_Legal_Associate_Trilegal.docx",
+  "TAGLINE": "Litigation Associate and IIM MBA combining High Court dispute management with structured commercial analysis",
+  "SUMMARY": "Practicing advocate and IIM Sirmaur MBA graduate handling complex commercial litigation, statutory research, and contract management at Gandhi & Co. Cleared Rajasthan Judicial Services Preliminary Exam (2024) and All India Bar Examination (2021). Brings rigorous legal research, analytical precision, and multi stakeholder governance across corporate disputes and transactions.",
+  "TOOLS": "Indian Kanoon, SCC Online, Manupatra, MS Excel, Judicial Registry Portals, Corporate Contracts Suite, Arbitration Repositories, Regulatory Compliance Portals",
+  "COMPETENCIES": [
+    [
+      "Commercial Litigation",
+      "High Court Dispute Filings",
+      "Statutory Research"
+    ],
+    [
+      "Legal Drafting and Pleadings",
+      "Corporate Contract Review",
+      "Arbitration and Settlements"
+    ],
+    [
+      "Unit Economics Modeling",
+      "Vendor and Supplier Negotiation",
+      "Regulatory Compliance"
+    ]
+  ],
+  "EXPERIENCE": [
+    {
+      "id": "gandhi_co",
+      "title": "Associate",
+      "organization": "Gandhi & Co.",
+      "dates": "May 2022 – Present",
+      "type": "full-time",
+      "bullets": [
+        "**Conducted end to end case management** across civil, commercial, and arbitration disputes before the High Court.",
+        "**Drafted legal pleadings**, writ petitions, contracts, and commercial agreements with rigorous statutory compliance.",
+        "**Formulated litigation defense strategies**, conducting deep statutory research across landmark case precedents.",
+        "**Liaised with institutional clients** and regulatory authorities to steer litigation timelines and resolution."
+      ],
+      "minBullets": 4
+    },
+    {
+      "id": "naraina_jewellers",
+      "title": "Founder (Pre-Launch)",
+      "organization": "Naraina Jewellers (Proprietorship)",
+      "dates": "2025 – Present",
+      "type": "independent",
+      "label": "(Independent Venture)",
+      "bullets": [
+        "**Founded bespoke retail jewellery venture**, directing complete business registration, statutory licensing, vendor sourcing, and unit economics modeling ahead of commercial retail launch."
+      ]
+    },
+    {
+      "id": "tata_aig",
+      "title": "Sales & Marketing Intern",
+      "organization": "TATA AIG General Insurance",
+      "dates": "Apr 2021 – Jun 2021",
+      "type": "internship",
+      "label": "(Internship)",
+      "bullets": [
+        "**Analyzed insurance market penetration**, executing competitor benchmarking across distributor and agency channels."
+      ]
+    }
+  ],
+  "PROJECTS": [
+    {
+      "id": "naraina_project",
+      "title": "Independent Projects & Ventures",
+      "organization": "Naraina Jewellers",
+      "dates": "",
+      "type": "independent",
+      "label": "(Independent Project)",
+      "bullets": [
+        "**Naraina Jewellers (Independent Venture):** Established proprietorship framework, vendor contracts, and licensing."
+      ]
+    }
+  ],
+  "COMPANY": "Trilegal",
+  "ROLE": "Legal Associate",
+  "THEME_COLOR": "#333333",
+  "BULLET_SPACING": 42,
+  "LAST_BULLET_SPACING": 15,
+  "HEADER_BEFORE_SPACING": 100,
+  "HEADER_AFTER_SPACING": 40,
+  "ROLE_BEFORE_SPACING": 75,
+  "ROLE_AFTER_SPACING": 28,
+  "CERT_SPACING": 40,
+  "EDU_SPACING": 42,
+  "PAGE_MARGIN_TOP": 750,
+  "PAGE_MARGIN_BOTTOM": 680,
+  "PAGE_MARGIN_LEFT": 864,
+  "PAGE_MARGIN_RIGHT": 864,
+  "SCHEMA_VERSION": 3,
+  "FORMAT_TYPE": "extended",
+  "PROFILE": {
+    "name": {
+      "first": "Harsh",
+      "last": "Goyal",
+      "full": "Harsh Goyal"
+    },
+    "contact": {
+      "phone": "+91 97174 56320",
+      "email": "harshgoel551@gmail.com",
+      "linkedin": "https://linkedin.com/in/harsh-goyal",
+      "linkedinShort": "linkedin.com/in/harsh-goyal",
+      "portfolio": "",
+      "portfolioShort": "",
+      "defaultLocation": "Delhi NCR, India"
+    },
+    "education": [
+      {
+        "degree": "MBA, General Management",
+        "institution": "IIM Sirmaur",
+        "year": "2022",
+        "description": "Member, D2C Igniters' Club   |   Quantitative and strategic management curriculum"
+      },
+      {
+        "degree": "B.A. LLB (Hons.)",
+        "institution": "Amity Law School, Delhi (IP University)",
+        "year": "2018",
+        "description": "First Division   |   5 Year Integrated Degree   |   Chairperson, Model United Nations"
+      },
+      {
+        "degree": "Senior Secondary (12th Board)",
+        "institution": "Aggarsain Public School, Kurukshetra",
+        "year": "2013",
+        "description": "CBSE Board Examination"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Rajasthan Judicial Services Preliminary Examination",
+        "details": "Cleared competitive state judicial examination (2024)"
+      },
+      {
+        "title": "All India Bar Examination (AIBE)",
+        "details": "Bar Council of India qualification for legal practice (2021)"
+      },
+      {
+        "title": "3rd International Mathematics Olympiad",
+        "details": "Scored 98.66 percentile nationwide (2009)"
+      }
+    ],
+    "constants": {
+      "LOCATION": "Delhi NCR, India"
+    }
+  },
+  "PORTFOLIO_URL_REQUIRED": false,
+  "WHY_I_FIT": "Trilegal requires an associate who combines rigorous legal research with commercial context. Across three years at **Gandhi & Co.**, I have managed commercial dispute filings before High Courts, drafting petitions and arbitration submissions. My quantitative MBA training from **IIM Sirmaur** enables me to analyze financial disclosures, damages claims, and transaction contracts with commercial acumen that purely doctrinal practitioners lack. Having also launched a commercial venture (**Naraina Jewellers**), I approach client matters with owner mindset and zero defect compliance.\n\nMy courtroom experience spans end to end case management, from drafting initial pleadings and statutory notices to framing evidentiary affidavits and coordinating with senior advocates for High Court appearances. In parallel, my business education provides working proficiency in financial modeling, valuation assessment, and corporate governance frameworks. This dual lens allows me to quickly deconstruct complex corporate transactions, evaluate regulatory exposure under company law and arbitration statutes, and draft airtight contractual safeguards for institutional clients.\n\nWhether preparing urgent interim relief petitions, synthesizing dense case precedents across judicial benches, or negotiating commercial terms with counterparties, I deliver disciplined execution, clear written advocacy, and complete ownership across every matter.",
+  "ROLE_PILLARS": [
+    {
+      "title": "Litigation Management & Trial Prep",
+      "bullets": [
+        "Managed end to end dispute filings before **High Court** and commercial arbitration tribunals.",
+        "Structured evidentiary documentation and legal strategy briefs for **senior advocates**.",
+        "Monitored statutory limitation deadlines with **zero defect compliance** across the case docket.",
+        "Represented institutional clients across hearing stages, interim motions, and procedural arguments.",
+        "Coordinated with judicial registries to secure timely listing and urgent disposal of applications."
+      ]
+    },
+    {
+      "title": "Statutory Research & Brief Drafting",
+      "bullets": [
+        "Authored commercial dispute pleadings, arbitration petitions, writ briefs, and statutory notices.",
+        "Researched judicial precedents across **commercial arbitration**, company law, and **commercial contracts**.",
+        "Drafted settlement agreements and corporate covenants safeguarding client commercial assets.",
+        "Synthesized case law into actionable **litigation risk memorandums** for corporate general counsels.",
+        "Maintained structured legal research databases mapping bench precedents and judicial trends."
+      ]
+    },
+    {
+      "title": "Commercial Acumen & Valuation",
+      "bullets": [
+        "Applied quantitative valuation methods from **IIM MBA** to evaluate disputed claim damages.",
+        "Reviewed commercial contracts to flag regulatory risks, indemnification caps, and liabilities.",
+        "Assessed **financial statements**, balance sheets, and audit reports during commercial disputes.",
+        "Negotiated settlement terms with counterparty counsels to minimize client balance sheet exposure.",
+        "Bridged commercial business objectives and statutory compliance requirements in advisory briefs."
+      ]
+    },
+    {
+      "title": "Contract Drafting & Negotiation",
+      "bullets": [
+        "Drafted **master service agreements**, supply contracts, vendor covenants, and NDAs.",
+        "Structured dispute resolution clauses specifying arbitral seats, procedural rules, and choice of law.",
+        "Identified contractual ambiguities and enforceability risks during **commercial due diligence** reviews.",
+        "Negotiated risk allocation terms and termination covenants to insulate corporate clients.",
+        "Standardized contract templates across vendor onboarding workflows to accelerate legal turnaround."
+      ]
+    },
+    {
+      "title": "Regulatory Compliance & Governance",
+      "bullets": [
+        "Advised commercial clients on **statutory reporting** requirements and regulatory agency inquiries.",
+        "Monitored evolving legal mandates across commercial courts, consumer commissions, and tribunals.",
+        "Conducted **legal risk audits** across corporate operations, identifying non compliance exposures.",
+        "Formulated compliance checklists for statutory filings under commercial and corporate enactments.",
+        "Liaised with governmental and regulatory bodies to address statutory inquiries and disclosures."
+      ]
+    },
+    {
+      "title": "Venture Operations & Ownership",
+      "bullets": [
+        "Structured corporate registrations, business licenses, and tax compliance for jewellery venture.",
+        "Negotiated supplier agreements and trade terms across fabrication hubs and material vendors.",
+        "Formulated **unit economics**, working capital forecasts, and margin structures for commercial launch.",
+        "Established operational controls, vendor SLAs, and product assortment frameworks as proprietor.",
+        "Built financial forecasting models in **MS Excel** to manage cash flows and inventory cycles."
+      ]
+    }
+  ],
+  "NUMBERS_THAT_MATTER": [
+    {
+      "label": "Judicial Services",
+      "value": "Cleared Rajasthan Judicial Services Preliminary Examination in 2024"
+    },
+    {
+      "label": "Bar Certification",
+      "value": "Certified advocate through All India Bar Examination in 2021"
+    },
+    {
+      "label": "Litigation Practice",
+      "value": "3 years of continuous commercial litigation practice at Gandhi & Co."
+    },
+    {
+      "label": "Quantitative Aptitude",
+      "value": "Top 98.66 percentile nationwide in 3rd International Mathematics Olympiad"
+    }
+  ],
+  "TOOLS_GROUPED": [
+    {
+      "category": "Legal Research and Analytics",
+      "items": "SCC Online, Manupatra, Indian Kanoon, High Court e Filing Portals"
+    },
+    {
+      "category": "Contract and Document Management",
+      "items": "MS Word, PDF Docket Tools, Evidentiary Bundling Platforms"
+    },
+    {
+      "category": "Business and Quantitative Analysis",
+      "items": "MS Excel, Financial Statement Analysis, Valuation Modeling"
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    @page {
+      size: A4;
+      margin: 0.5cm 0.8cm 0.5cm 0.8cm;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      font-family: 'Segoe UI', Calibri, 'DejaVu Sans', Arial, sans-serif;
+      color: #1A1A1A;
+      margin: 0;
+      padding: 0;
+      font-size: 8.5pt;
+      line-height: 1.3;
+      widows: 1;
+      orphans: 1;
+    }
+
+    strong { font-weight: 700; }
+
+    a { color: #333333; text-decoration: underline; }
+
+    /* Header */
+    .header {
+      text-align: center;
+      margin-bottom: 4px;
+    }
+    .section { margin-bottom: 6px; }
+    .name {
+      font-size: 1.6em;
+      margin: 0;
+      letter-spacing: 0.5px;
+    }
+    .tagline {
+      color: #333333;
+      font-size: 1.0em;
+      margin: 2px 0 4px 0;
+    }
+    .contact {
+      font-size: 0.82em;
+      color: #555555;
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      flex-wrap: nowrap;
+      white-space: nowrap;
+    }
+
+    /* Spaced Headers */
+    .spaced-header {
+      font-size: 9.5pt;
+      font-weight: 700;
+      color: #333333;
+      border-bottom: 1.5px solid #333333;
+      padding-bottom: 1px;
+      margin-top: 6px;
+      margin-bottom: 4px;
+    }
+
+    .why-body {
+      font-size: 8.5pt;
+      margin-bottom: 4px;
+      line-height: 1.3;
+    }
+
+    /* Pillar Grid */
+    .pillar-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 4px;
+      margin-bottom: 4px;
+    }
+    .pillar-cell {
+      padding: 4px 5px;
+      background: #F0F0F0;
+      border-radius: 3px;
+    }
+    .pillar-cell h4 {
+      color: #333333;
+      margin: 0 0 3px 0;
+      font-size: 9pt;
+    }
+    .pillar-cell ul { margin: 0; padding-left: 12px; font-size: 8.2pt; line-height: 1.25; }
+    .pillar-cell li { margin-bottom: 1px; }
+
+    /* Experience */
+    .experience-item { margin-bottom: 6px; }
+    .exp-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 2px;
+    }
+    .exp-title { font-size: 1.0em; font-weight: 700; color: #1A1A1A; }
+    .exp-org { font-size: 0.95em; font-weight: 700; color: #333333; }
+    .exp-date { font-size: 0.9em; font-style: italic; color: #555555; }
+    .role-intro { font-style: italic; font-size: 8.5pt; color: #555555; margin-bottom: 2px; }
+
+    ul { margin: 0; padding-left: 16px; }
+    li { margin-bottom: 2px; }
+    li a, .why-body a { color: #333333; text-decoration: underline; }
+
+    /* Education */
+    .edu-item { margin-bottom: 4px; }
+    .edu-header { display: flex; justify-content: space-between; align-items: baseline; }
+    .edu-deg { font-size: 0.95em; font-weight: 700; }
+    .edu-inst { font-size: 0.95em; }
+    .edu-date { font-size: 0.85em; font-style: italic; color: #555555; }
+    .edu-desc { font-size: 0.85em; font-style: italic; color: #555555; margin-top: 1px; }
+
+    /* Numbers Grid */
+    .numbers-intro { font-size: 8.5pt; margin-bottom: 4px; }
+    .numbers-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 4px 12px;
+      margin-bottom: 6px;
+    }
+    .number-item { font-size: 8.5pt; }
+    .number-item strong { color: #333333; }
+
+    /* Tools */
+    .tools-grouped { margin-bottom: 6px; }
+    .tool-row { font-size: 8.5pt; margin-bottom: 2px; }
+
+    /* Certifications */
+    .cert-list { margin: 0; padding-left: 16px; }
+    .cert-list li { font-size: 8.5pt; margin-bottom: 2px; }
+
+    hr.divider {
+      border: none;
+      border-top: 1.5px solid #2C2C2C;
+      margin: 4px 0 6px 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1 class="name"><span style="font-weight:300;">HARSH</span> <span style="font-weight:700; color:#333333;">GOYAL</span></h1>
+    <div class="tagline">Litigation Associate and IIM MBA combining High Court dispute management with structured commercial analysis</div>
+    <div class="contact">
+      <span>+91 97174 56320</span>
+      <span>harshgoel551@gmail.com</span>
+      <span>linkedin.com/in/harsh-goyal</span>
+      
+      <span>Delhi NCR, India</span>
+    </div>
+    <hr class="divider">
+  </div>
+
+  
+    <div class="section">
+      <div class="spaced-header">WHY I FIT THIS ROLE AT TRILEGAL</div>
+      <div class="why-body">Trilegal requires an associate who combines rigorous legal research with commercial context. Across three years at <strong>Gandhi & Co.</strong>, I have managed commercial dispute filings before High Courts, drafting petitions and arbitration submissions. My quantitative MBA training from <strong>IIM Sirmaur</strong> enables me to analyze financial disclosures, damages claims, and transaction contracts with commercial acumen that purely doctrinal practitioners lack. Having also launched a commercial venture (<strong>Naraina Jewellers</strong>), I approach client matters with owner mindset and zero defect compliance.
+
+My courtroom experience spans end to end case management, from drafting initial pleadings and statutory notices to framing evidentiary affidavits and coordinating with senior advocates for High Court appearances. In parallel, my business education provides working proficiency in financial modeling, valuation assessment, and corporate governance frameworks. This dual lens allows me to quickly deconstruct complex corporate transactions, evaluate regulatory exposure under company law and arbitration statutes, and draft airtight contractual safeguards for institutional clients.
+
+Whether preparing urgent interim relief petitions, synthesizing dense case precedents across judicial benches, or negotiating commercial terms with counterparties, I deliver disciplined execution, clear written advocacy, and complete ownership across every matter.</div>
+    </div>
+    
+  
+    <div class="section">
+      <div class="spaced-header">AGAINST THE 6 ROLE PILLARS</div>
+      <div class="pillar-grid">
+        
+          <div class="pillar-cell">
+            <h4>Litigation Management & Trial Prep</h4>
+            <ul><li>Managed end to end dispute filings before <strong>High Court</strong> and commercial arbitration tribunals.</li><li>Structured evidentiary documentation and legal strategy briefs for <strong>senior advocates</strong>.</li><li>Monitored statutory limitation deadlines with <strong>zero defect compliance</strong> across the case docket.</li><li>Represented institutional clients across hearing stages, interim motions, and procedural arguments.</li><li>Coordinated with judicial registries to secure timely listing and urgent disposal of applications.</li></ul>
+          </div>
+        
+          <div class="pillar-cell">
+            <h4>Statutory Research & Brief Drafting</h4>
+            <ul><li>Authored commercial dispute pleadings, arbitration petitions, writ briefs, and statutory notices.</li><li>Researched judicial precedents across <strong>commercial arbitration</strong>, company law, and <strong>commercial contracts</strong>.</li><li>Drafted settlement agreements and corporate covenants safeguarding client commercial assets.</li><li>Synthesized case law into actionable <strong>litigation risk memorandums</strong> for corporate general counsels.</li><li>Maintained structured legal research databases mapping bench precedents and judicial trends.</li></ul>
+          </div>
+        
+          <div class="pillar-cell">
+            <h4>Commercial Acumen & Valuation</h4>
+            <ul><li>Applied quantitative valuation methods from <strong>IIM MBA</strong> to evaluate disputed claim damages.</li><li>Reviewed commercial contracts to flag regulatory risks, indemnification caps, and liabilities.</li><li>Assessed <strong>financial statements</strong>, balance sheets, and audit reports during commercial disputes.</li><li>Negotiated settlement terms with counterparty counsels to minimize client balance sheet exposure.</li><li>Bridged commercial business objectives and statutory compliance requirements in advisory briefs.</li></ul>
+          </div>
+        
+          <div class="pillar-cell">
+            <h4>Contract Drafting & Negotiation</h4>
+            <ul><li>Drafted <strong>master service agreements</strong>, supply contracts, vendor covenants, and NDAs.</li><li>Structured dispute resolution clauses specifying arbitral seats, procedural rules, and choice of law.</li><li>Identified contractual ambiguities and enforceability risks during <strong>commercial due diligence</strong> reviews.</li><li>Negotiated risk allocation terms and termination covenants to insulate corporate clients.</li><li>Standardized contract templates across vendor onboarding workflows to accelerate legal turnaround.</li></ul>
+          </div>
+        
+          <div class="pillar-cell">
+            <h4>Regulatory Compliance & Governance</h4>
+            <ul><li>Advised commercial clients on <strong>statutory reporting</strong> requirements and regulatory agency inquiries.</li><li>Monitored evolving legal mandates across commercial courts, consumer commissions, and tribunals.</li><li>Conducted <strong>legal risk audits</strong> across corporate operations, identifying non compliance exposures.</li><li>Formulated compliance checklists for statutory filings under commercial and corporate enactments.</li><li>Liaised with governmental and regulatory bodies to address statutory inquiries and disclosures.</li></ul>
+          </div>
+        
+          <div class="pillar-cell">
+            <h4>Venture Operations & Ownership</h4>
+            <ul><li>Structured corporate registrations, business licenses, and tax compliance for jewellery venture.</li><li>Negotiated supplier agreements and trade terms across fabrication hubs and material vendors.</li><li>Formulated <strong>unit economics</strong>, working capital forecasts, and margin structures for commercial launch.</li><li>Established operational controls, vendor SLAs, and product assortment frameworks as proprietor.</li><li>Built financial forecasting models in <strong>MS Excel</strong> to manage cash flows and inventory cycles.</li></ul>
+          </div>
+        
+      </div>
+    </div>
+    
+  <div class="section"><div class="spaced-header">PROFESSIONAL EXPERIENCE</div>
+        <div class="experience-item">
+          <div class="exp-header">
+            <span><strong class="exp-title">Associate</strong> &nbsp;|&nbsp; <span class="exp-org">Gandhi & Co.</span></span>
+            <span class="exp-date">May 2022 – Present</span>
+          </div>
+          
+          <ul><li><strong>Conducted end to end case management</strong> across civil, commercial, and arbitration disputes before the High Court.</li><li><strong>Drafted legal pleadings</strong>, writ petitions, contracts, and commercial agreements with rigorous statutory compliance.</li><li><strong>Formulated litigation defense strategies</strong>, conducting deep statutory research across landmark case precedents.</li><li><strong>Liaised with institutional clients</strong> and regulatory authorities to steer litigation timelines and resolution.</li></ul>
+        </div>
+      
+        <div class="experience-item">
+          <div class="exp-header">
+            <span><strong class="exp-title">Founder (Pre-Launch) (Independent Venture)</strong> &nbsp;|&nbsp; <span class="exp-org">Naraina Jewellers (Proprietorship)</span></span>
+            <span class="exp-date">2025 – Present</span>
+          </div>
+          
+          <ul><li><strong>Founded bespoke retail jewellery venture</strong>, directing complete business registration, statutory licensing, vendor sourcing, and unit economics modeling ahead of commercial retail launch.</li></ul>
+        </div>
+      
+        <div class="experience-item">
+          <div class="exp-header">
+            <span><strong class="exp-title">Sales & Marketing Intern (Internship)</strong> &nbsp;|&nbsp; <span class="exp-org">TATA AIG General Insurance</span></span>
+            <span class="exp-date">Apr 2021 – Jun 2021</span>
+          </div>
+          
+          <ul><li><strong>Analyzed insurance market penetration</strong>, executing competitor benchmarking across distributor and agency channels.</li></ul>
+        </div>
+      </div>
+  <div class="section">
+          <div class="exp-header">
+            <span><strong class="exp-title">Independent Projects & Ventures (Independent Project)</strong> &nbsp;|&nbsp; <span class="exp-org">Naraina Jewellers</span></span>
+            
+          </div>
+          
+          <ul><li><strong>Naraina Jewellers (Independent Venture):</strong> Established proprietorship framework, vendor contracts, and licensing.</li></ul>
+        </div>
+
+  <div class="section">
+    <div class="spaced-header">EDUCATION</div>
+    
+      <div class="edu-item">
+        <div class="edu-header">
+          <span><strong class="edu-deg">MBA, General Management</strong> &nbsp;|&nbsp; <span class="edu-inst">IIM Sirmaur</span></span>
+          <span class="edu-date">2022</span>
+        </div>
+        <div class="edu-desc">Member, D2C Igniters' Club   |   Quantitative and strategic management curriculum</div>
+      </div>
+    
+      <div class="edu-item">
+        <div class="edu-header">
+          <span><strong class="edu-deg">B.A. LLB (Hons.)</strong> &nbsp;|&nbsp; <span class="edu-inst">Amity Law School, Delhi (IP University)</span></span>
+          <span class="edu-date">2018</span>
+        </div>
+        <div class="edu-desc">First Division   |   5 Year Integrated Degree   |   Chairperson, Model United Nations</div>
+      </div>
+    
+      <div class="edu-item">
+        <div class="edu-header">
+          <span><strong class="edu-deg">Senior Secondary (12th Board)</strong> &nbsp;|&nbsp; <span class="edu-inst">Aggarsain Public School, Kurukshetra</span></span>
+          <span class="edu-date">2013</span>
+        </div>
+        <div class="edu-desc">CBSE Board Examination</div>
+      </div>
+    
+  </div>
+
+  
+    <div class="section">
+      <div class="spaced-header">NUMBERS THAT MATTER FOR THIS ROLE</div>
+      
+      <div class="numbers-grid">
+        <div class="number-item"><strong>Judicial Services:</strong> Cleared Rajasthan Judicial Services Preliminary Examination in 2024</div><div class="number-item"><strong>Bar Certification:</strong> Certified advocate through All India Bar Examination in 2021</div><div class="number-item"><strong>Litigation Practice:</strong> 3 years of continuous commercial litigation practice at Gandhi & Co.</div><div class="number-item"><strong>Quantitative Aptitude:</strong> Top 98.66 percentile nationwide in 3rd International Mathematics Olympiad</div>
+      </div>
+    </div>
+    
+  
+    <div class="section">
+      <div class="spaced-header">TOOLS AND TECHNICAL SKILLS</div>
+      <div class="tools-grouped">
+        <div class="tool-row"><strong>Legal Research and Analytics:</strong> SCC Online, Manupatra, Indian Kanoon, High Court e Filing Portals</div><div class="tool-row"><strong>Contract and Document Management:</strong> MS Word, PDF Docket Tools, Evidentiary Bundling Platforms</div><div class="tool-row"><strong>Business and Quantitative Analysis:</strong> MS Excel, Financial Statement Analysis, Valuation Modeling</div>
+      </div>
+    </div>
+    
+  
+    <div class="section">
+      <div class="spaced-header">CERTIFICATIONS</div>
+      <ul class="cert-list">
+        <li><strong>Rajasthan Judicial Services Preliminary Examination</strong> | Cleared competitive state judicial examination (2024)</li><li><strong>All India Bar Examination (AIBE)</strong> | Bar Council of India qualification for legal practice (2021)</li><li><strong>3rd International Mathematics Olympiad</strong> | Scored 98.66 percentile nationwide (2009)</li>
+      </ul>
+    </div>
+    
+</body>
+</html>
+  

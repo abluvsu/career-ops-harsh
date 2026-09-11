@@ -1,5 +1,8 @@
-
-  "bannedTools": ["zapier", "n8n"],
+{
+  "bannedTools": [
+    "zapier",
+    "n8n"
+  ],
   "requiredMetrics": [],
   "requiredDisclosures": {
     "partTimeLabel": false,
