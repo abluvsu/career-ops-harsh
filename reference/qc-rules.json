@@ -1,16 +1,28 @@
 {
+  "candidateName": "Harsh Goyal",
   "bannedTools": [
     "zapier",
     "n8n"
   ],
-  "requiredMetrics": [],
+  "requiredMetrics": [
+    "50+",
+    "15+",
+    "30+",
+    "98.66%"
+  ],
   "requiredDisclosures": {
-    "partTimeLabel": false,
+    "partTimeLabel": true,
     "independentLabel": true
   },
   "portfolioUrlRequired": false,
+  "coverLetter": {
+    "maxWords": 300,
+    "requiredClosingText": "I look forward to discussing how my legal acumen and strategic background can add value."
+  },
+  "coverLetterClosingText": "I look forward to discussing how my legal acumen and strategic background can add value.",
   "minPrimaryBullets": 4,
-  "minPillars": 3,
-  "minContentChars": 3000,
-  "minBoldMarkers": 30
+  "minPillars": 6,
+  "minPillarsCount": 6,
+  "minContentChars": 4000,
+  "minBoldMarkers": 40
 }

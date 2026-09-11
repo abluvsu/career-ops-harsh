@@ -11,8 +11,34 @@
     "linkedinShort": "linkedin.com/in/harsh-goyal",
     "portfolio": "",
     "portfolioShort": "",
-    "defaultLocation": "Delhi NCR, India"
+    "defaultLocation": "New Delhi, India"
   },
+  "experience": [
+    {
+      "id": "naraina_jewellers",
+      "title": "Founder (Pre-Launch)",
+      "organization": "Naraina Jewellers (Proprietorship)",
+      "dates": "2025 – Present",
+      "type": "independent",
+      "label": "(Independent Venture)"
+    },
+    {
+      "id": "gandhi_co",
+      "title": "Associate",
+      "organization": "Gandhi & Co.",
+      "dates": "May 2022 – Present",
+      "type": "full-time",
+      "minBullets": 4
+    },
+    {
+      "id": "tata_aig",
+      "title": "Sales & Marketing Intern",
+      "organization": "TATA AIG General Insurance",
+      "dates": "Apr 2021 – Jun 2021",
+      "type": "internship",
+      "label": "(Internship)"
+    }
+  ],
   "education": [
     {
       "degree": "MBA, General Management",
@@ -24,7 +50,7 @@
       "degree": "B.A. LLB (Hons.)",
       "institution": "Amity Law School, Delhi (IP University)",
       "year": "2018",
-      "description": "First Division   |   5 Year Integrated Degree   |   Chairperson, Model United Nations"
+      "description": "First Division, 5 Year Integrated Programme   |   Chairperson Model United Nations"
     },
     {
       "degree": "Senior Secondary (12th Board)",
@@ -47,7 +73,16 @@
       "details": "Scored 98.66 percentile nationwide (2009)"
     }
   ],
+  "skills": [
+    "Legal research",
+    "Case management",
+    "Drafting",
+    "Market research",
+    "MS Excel",
+    "Structured analysis",
+    "Communication"
+  ],
   "constants": {
-    "LOCATION": "Delhi NCR, India"
+    "LOCATION": "New Delhi, India"
   }
 }

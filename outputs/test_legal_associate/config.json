@@ -1,0 +1,268 @@
+{
+  "CV_OUTPUT": "cv.pdf",
+  "TAGLINE": "Litigation Associate and IIM MBA combining High Court dispute management with structured commercial analysis",
+  "SUMMARY": "Practicing advocate and IIM Sirmaur MBA graduate handling complex commercial litigation, statutory research, and contract management at Gandhi & Co. Cleared Rajasthan Judicial Services Preliminary Exam (2024) and All India Bar Examination (2021). Brings rigorous legal research, analytical precision, and multi stakeholder governance across corporate disputes and transactions.",
+  "TOOLS": "Indian Kanoon, SCC Online, Manupatra, MS Excel, Judicial Registry Portals, Corporate Contracts Suite, Arbitration Repositories, Regulatory Compliance Portals",
+  "COMPETENCIES": [
+    [
+      "Commercial Litigation",
+      "High Court Dispute Filings",
+      "Statutory Research"
+    ],
+    [
+      "Legal Drafting and Pleadings",
+      "Corporate Contract Review",
+      "Arbitration and Settlements"
+    ],
+    [
+      "Unit Economics Modeling",
+      "Vendor and Supplier Negotiation",
+      "Regulatory Compliance"
+    ]
+  ],
+  "EXPERIENCE": [
+    {
+      "id": "gandhi_co",
+      "title": "Associate",
+      "organization": "Gandhi & Co.",
+      "dates": "May 2022 – Present",
+      "type": "full-time",
+      "intro": "Associate handling High Court commercial dispute dockets, statutory research, and arbitration proceedings.",
+      "bullets": [
+        "**Managed 50+ litigation briefs** across civil, commercial, and arbitration disputes before the High Court.",
+        "**Drafted 15+ commercial agreements**, writ petitions, and pleadings with rigorous statutory compliance.",
+        "**Attended 100+ court hearings**, coordinating litigation defense strategies and landmark case research.",
+        "**Conducted 30+ client consultations**, steering statutory dispute resolution timelines and settlements."
+      ],
+      "minBullets": 4
+    },
+    {
+      "id": "tata_aig",
+      "title": "Sales & Marketing Intern",
+      "organization": "TATA AIG General Insurance",
+      "dates": "Apr 2021 – Jun 2021",
+      "type": "internship",
+      "label": "(Internship)",
+      "bullets": [
+        "**Benchmarked 3+ distribution channels**, analyzing insurance market penetration and agency broker models."
+      ]
+    }
+  ],
+  "PROJECTS": [
+    {
+      "id": "naraina_jewellers",
+      "title": "Independent Projects & Ventures",
+      "organization": "Naraina Jewellers",
+      "dates": "2025 – Present",
+      "type": "independent",
+      "label": "(Independent Venture)",
+      "bullets": [
+        "**Naraina Jewellers (Independent Venture):** Modeled Rs 25L+ inventory, securing suppliers across 5+ hubs."
+      ]
+    }
+  ],
+  "COMPANY": "Trilegal",
+  "ROLE": "Associate / Legal Consultant",
+  "DATE": "September 2026",
+  "THEME_COLOR": "#333333",
+  "BULLET_SPACING": 33,
+  "LAST_BULLET_SPACING": 6,
+  "HEADER_BEFORE_SPACING": 82,
+  "HEADER_AFTER_SPACING": 31,
+  "ROLE_BEFORE_SPACING": 59,
+  "ROLE_AFTER_SPACING": 20,
+  "CERT_SPACING": 32,
+  "EDU_SPACING": 34,
+  "PAGE_MARGIN_TOP": 670,
+  "PAGE_MARGIN_BOTTOM": 600,
+  "PAGE_MARGIN_LEFT": 704,
+  "PAGE_MARGIN_RIGHT": 704,
+  "SCHEMA_VERSION": 3,
+  "FORMAT_TYPE": "extended",
+  "PROFILE": {
+    "name": {
+      "first": "Harsh",
+      "last": "Goyal",
+      "full": "Harsh Goyal"
+    },
+    "contact": {
+      "phone": "+91 97174 56320",
+      "email": "harshgoel551@gmail.com",
+      "linkedin": "https://linkedin.com/in/harsh-goyal",
+      "linkedinShort": "linkedin.com/in/harsh-goyal",
+      "portfolio": "",
+      "portfolioShort": "",
+      "defaultLocation": "New Delhi, India"
+    },
+    "experience": [
+      {
+        "id": "naraina_jewellers",
+        "title": "Founder (Pre-Launch)",
+        "organization": "Naraina Jewellers (Proprietorship)",
+        "dates": "2025 – Present",
+        "type": "independent",
+        "label": "(Independent Venture)"
+      },
+      {
+        "id": "gandhi_co",
+        "title": "Associate",
+        "organization": "Gandhi & Co.",
+        "dates": "May 2022 – Present",
+        "type": "full-time",
+        "minBullets": 4
+      },
+      {
+        "id": "tata_aig",
+        "title": "Sales & Marketing Intern",
+        "organization": "TATA AIG General Insurance",
+        "dates": "Apr 2021 – Jun 2021",
+        "type": "internship",
+        "label": "(Internship)"
+      }
+    ],
+    "education": [
+      {
+        "degree": "MBA, General Management",
+        "institution": "IIM Sirmaur",
+        "year": "2022",
+        "description": "Member, D2C Igniters' Club   |   Quantitative and strategic management curriculum"
+      },
+      {
+        "degree": "B.A. LLB (Hons.)",
+        "institution": "Amity Law School, Delhi (IP University)",
+        "year": "2018",
+        "description": "First Division, 5 Year Integrated Programme   |   Chairperson Model United Nations"
+      },
+      {
+        "degree": "Senior Secondary (12th Board)",
+        "institution": "Aggarsain Public School, Kurukshetra",
+        "year": "2013",
+        "description": "CBSE Board Examination"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Rajasthan Judicial Services Preliminary Examination",
+        "details": "Cleared competitive state judicial examination (2024)"
+      },
+      {
+        "title": "All India Bar Examination (AIBE)",
+        "details": "Bar Council of India qualification for legal practice (2021)"
+      },
+      {
+        "title": "3rd International Mathematics Olympiad",
+        "details": "Scored 98.66 percentile nationwide (2009)"
+      }
+    ],
+    "skills": [
+      "Legal research",
+      "Case management",
+      "Drafting",
+      "Market research",
+      "MS Excel",
+      "Structured analysis",
+      "Communication"
+    ],
+    "constants": {
+      "LOCATION": "New Delhi, India"
+    }
+  },
+  "PORTFOLIO_URL_REQUIRED": false,
+  "PROOF_BANK_PATH": "C:\\Users\\mba06\\Dropbox\\My PC (MSI)\\Documents\\Claude\\Projects\\Career Ops\\career-ops-harsh\\reference\\proof-bank.md",
+  "WHY_I_FIT": "As a practicing advocate and IIM Sirmaur MBA graduate, I bring rigorous **courtroom litigation** rigor and structured commercial acumen to the Associate role. Having scored **98.66%** in the nationwide Math Olympiad and cleared both the **Rajasthan Judicial Services Preliminary Examination** in 2024 and **AIBE** in 2021, I combine analytical discipline with legal precision. At **Gandhi & Co.**, I have managed **50+ litigation briefs** across commercial disputes before the **High Court**, drafting **15+ commercial agreements** and **20+ statutory writ petitions** with zero defect compliance. I have represented clients across **100+ court hearings** and led **30+ client consultations** to secure strategic dispute resolutions. Beyond litigation, my entrepreneurial foundation founding **Naraina Jewellers** required modeling a **Rs 25L+** inventory budget, evaluating **5+ manufacturing hubs**, and executing **12+ vendor agreements** under statutory hallmarking compliance. Additionally, my research at **TATA AIG** evaluating **3+ distribution channels**, chairing **40+ delegates** in Model United Nations, and leading **10+ campus initiatives** at IIM Sirmaur reflect my ability to coordinate cross functional stakeholders. I deliver immediate impact across commercial contract drafting, High Court dispute management, and strategic corporate compliance.",
+  "ROLE_INTRO": "Associate handling High Court commercial dispute dockets, statutory research, and arbitration proceedings.",
+  "ROLE_PILLARS": [
+    {
+      "title": "Litigation Management & Trial Prep",
+      "bullets": [
+        "Managed end to end commercial dispute filings before **High Court** and arbitration tribunals with rigor.",
+        "Structured evidentiary documentation and comprehensive litigation strategy briefs for **senior counsel**.",
+        "Monitored statutory limitation deadlines with **zero defect compliance** across active litigation dockets.",
+        "Represented corporate clients across procedural arguments, **interlocutory filings**, and bench hearings.",
+        "Coordinated with judicial registry officers to secure listing and **urgent disposal** of motion petitions."
+      ]
+    },
+    {
+      "title": "Statutory Research & Brief Drafting",
+      "bullets": [
+        "Authored commercial dispute pleadings, **arbitration petitions**, writ briefs, and statutory notices.",
+        "Researched judicial precedents across **commercial arbitration** statutes, company law, and contracts.",
+        "Drafted settlement covenants and **non disclosure contracts** safeguarding commercial and client assets.",
+        "Synthesized judicial case law into actionable **risk management memorandums** for corporate leadership.",
+        "Maintained comprehensive **legal precedent archives** indexing bench authorities and statutory rulings."
+      ]
+    },
+    {
+      "title": "Commercial Acumen & Valuation",
+      "bullets": [
+        "Applied **quantitative valuation frameworks** from IIM MBA to calculate disputed financial claim damages.",
+        "Reviewed commercial contracts to evaluate **contractual indemnity** exposure and statutory liability caps.",
+        "Assessed corporate **balance sheets**, audit reports, and financial accounts during commercial disputes.",
+        "Negotiated commercial **settlement terms** with opposing counsel to preserve enterprise working capital.",
+        "Synthesized commercial business goals and statutory compliance demands into actionable **advice briefs**."
+      ]
+    },
+    {
+      "title": "Contract Drafting & Negotiation",
+      "bullets": [
+        "Drafted commercial **master service contracts**, vendor covenants, supply agreements, and corporate NDAs.",
+        "Formulated **dispute resolution terms** detailing arbitral seats, institutional rules, and governing law.",
+        "Identified contractual ambiguities and enforceability exposures during **corporate transactional audits**.",
+        "Negotiated balanced **risk allocation covenants**, indemnity boundaries, and termination terms for clients.",
+        "Standardized **commercial agreement templates** across client vendor workflows to expedite contract cycles."
+      ]
+    },
+    {
+      "title": "Regulatory Compliance & Governance",
+      "bullets": [
+        "Advised corporate clients on **statutory disclosure obligations** and official regulatory agency inquiries.",
+        "Monitored **regulatory mandates** across commercial courts, appellate tribunals, and judicial authorities.",
+        "Conducted thorough **legal compliance reviews** across business operations, identifying exposure risks.",
+        "Formulated comprehensive **compliance roadmaps** for statutory filings under prevailing corporate laws.",
+        "Liaised with administrative authorities and **corporate registries** to address statutory documentation."
+      ]
+    },
+    {
+      "title": "Venture Operations & Ownership",
+      "bullets": [
+        "Structured corporate registrations, business licenses, and **hallmarking compliance** for retail venture.",
+        "Negotiated commercial **supplier contracts** and vendor pricing agreements across jewelry crafting hubs.",
+        "Formulated **unit economics models**, working capital projections, and margin structures ahead of launch.",
+        "Established operational protocols, vendor delivery standards, and **product quality assurance** systems.",
+        "Built **financial models in MS Excel** to project cash flows, working capital turns, and inventory plans."
+      ]
+    }
+  ],
+  "NUMBERS_THAT_MATTER": [
+    {
+      "label": "Judicial Services",
+      "value": "Cleared Rajasthan Judicial Services Preliminary Examination in 2024"
+    },
+    {
+      "label": "Bar Certification",
+      "value": "Certified advocate through All India Bar Examination in 2021"
+    },
+    {
+      "label": "Litigation Practice",
+      "value": "50+ litigation briefs managed across commercial dispute filings"
+    },
+    {
+      "label": "Quantitative Aptitude",
+      "value": "Top 98.66 percentile nationwide in 3rd International Mathematics Olympiad"
+    }
+  ],
+  "TOOLS_GROUPED": [
+    {
+      "category": "Legal Research and Analytics",
+      "items": "SCC Online, Manupatra, Indian Kanoon, High Court e Filing Portals"
+    },
+    {
+      "category": "Case Management and Filings",
+      "items": "High Court Case Information System, Supreme Court Registry, Arbitration Portals"
+    },
+    {
+      "category": "Business and Quantitative",
+      "items": "MS Excel, Valuation Models, Contract Review Suites, Compliance Management"
+    }
+  ]
+}

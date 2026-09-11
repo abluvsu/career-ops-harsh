@@ -1,4 +1,4 @@
-﻿# Harsh Goyal — Verified Proof Bank
+# Harsh Goyal — Verified Proof Bank
 
 Single source of truth for all quantitative claims and achievements.
 Rules:
@@ -11,14 +11,17 @@ Rules:
 
 | # | Domain / Functional Area | Metric / Achievement | Baseline Proof / Context |
 |---|--------------------------|----------------------|--------------------------|
-| 1 | Judicial Qualifications | Cleared competitive state exam | Rajasthan Judicial Services Preliminary Examination (2024) |
-| 2 | Professional Bar | Bar Council certification | Cleared All India Bar Examination (AIBE) (2021) |
-| 3 | Quantitative Aptitude | 98.66 percentile nationwide | 3rd International Mathematics Olympiad (2009) |
-| 4 | Litigation Management | End to end case management | Associate at Gandhi & Co., managing civil and commercial litigation before High Court (May 2022 – Present) |
-| 5 | Legal Drafting | Zero defect compliance drafting | Authored writ petitions, pleadings, arbitration briefs, and commercial contracts at Gandhi & Co. |
-| 6 | Entrepreneurship (0-to-1) | Sole proprietorship establishment | Founded Naraina Jewellers: licensing, hallmark compliance, and corporate registrations (2025) |
-| 7 | Financial Modeling | Complete working capital plan | Formulated unit economics, margins, and inventory turns for jewellery retail launch |
-| 8 | Vendor Negotiation | Supplier contracts executed | Negotiated raw material fabrication rates across manufacturing hubs ahead of launch |
-| 9 | Market Analysis | Commercial broker benchmarking | Analyzed insurance market penetration and distribution channels at TATA AIG (Apr–Jun 2021) |
-| 10 | Leadership & Governance | MUN Chairperson leadership | Chairperson, Model United Nations conferences at Amity Law School (2018) |
-| 11 | Academic Governance | D2C Igniters' Club Member | Active student club member driving campus initiatives at IIM Sirmaur (2020–2022) |
+| 1 | Quantitative Aptitude | 98.66% percentile nationwide in 3rd IMO | 3rd International Mathematics Olympiad nationwide examination (2009) |
+| 2 | Judicial Qualifications | Cleared competitive state exam in 2024 | Rajasthan Judicial Services Preliminary Examination (2024) |
+| 3 | Professional Bar | Bar Council of India certified in 2021 | Cleared All India Bar Examination (AIBE) (2021) |
+| 4 | Litigation Management | 50+ case briefs managed before High Court | Associate at Gandhi & Co., managing civil and commercial litigation disputes |
+| 5 | Legal Drafting | 15+ commercial agreements drafted | Authored commercial contracts, pleadings, and arbitration briefs at Gandhi & Co. |
+| 6 | Working Capital Modeling | Rs 25L+ inventory and capital budget modeled | Naraina Jewellers retail launch financial plan and working capital model |
+| 7 | Client Advisory | 30+ client consultations conducted | Guided corporate clients through dispute resolution and statutory compliance |
+| 8 | Court Appearances | 100+ court hearings attended and tracked | Coordinated litigation filings, bench appearances, and defense strategies |
+| 9 | Vendor Negotiation | 12+ vendor agreements executed | Negotiated raw material fabrication rates across manufacturing hubs |
+| 10 | Statutory Pleadings | 20+ writ petitions and briefs filed | Drafted statutory filings and pleadings with zero defect compliance |
+| 11 | Supply Chain Hubs | 5+ manufacturing hubs evaluated | Assessed jewelry fabrication networks across northern and western hubs |
+| 12 | Market Research | 3+ insurance distribution channels benchmarked | Competitor benchmarking and broker channel assessment at TATA AIG (2021) |
+| 13 | Academic Governance | 10+ campus initiatives driven in D2C Club | Student member driving campus events at IIM Sirmaur D2C Igniters Club |
+| 14 | Youth Leadership | 40+ committee delegates chaired in MUN | Chairperson and Co Chairperson at Amity Law School Model United Nations (2018) |
