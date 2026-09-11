@@ -1,0 +1,161 @@
+{
+  "Legal Professional": {
+    "EXPERIENCE": [
+      {
+        "id": "gandhi_co",
+        "title": "Associate",
+        "organization": "Gandhi & Co.",
+        "dates": "May 2022 – Present",
+        "type": "full-time",
+        "minBullets": 4,
+        "bullets": [
+          "**Conducted end to end case management** across civil, commercial, and arbitration disputes before the High Court.",
+          "**Drafted legal pleadings**, writ petitions, contracts, and commercial agreements with rigorous statutory compliance.",
+          "**Formulated litigation defense strategies**, conducting deep statutory research across landmark case precedents.",
+          "**Liaised with institutional clients** and regulatory authorities to steer litigation timelines and resolution."
+        ]
+      },
+      {
+        "id": "naraina_jewellers",
+        "title": "Founder (Pre-Launch)",
+        "organization": "Naraina Jewellers (Proprietorship)",
+        "dates": "2025 – Present",
+        "type": "independent",
+        "label": "(Independent Venture)",
+        "bullets": [
+          "**Founded bespoke retail jewellery venture**, directing complete business registration, statutory licensing, vendor sourcing, and unit economics modeling ahead of commercial retail launch."
+        ]
+      },
+      {
+        "id": "tata_aig",
+        "title": "Sales & Marketing Intern",
+        "organization": "TATA AIG General Insurance",
+        "dates": "Apr 2021 – Jun 2021",
+        "type": "internship",
+        "label": "(Internship)",
+        "bullets": [
+          "**Analyzed insurance market penetration**, executing competitor benchmarking across distributor and agency channels."
+        ]
+      }
+    ],
+    "PROJECTS": [
+      {
+        "id": "naraina_project",
+        "title": "Independent Projects & Ventures",
+        "organization": "Naraina Jewellers",
+        "dates": "",
+        "type": "independent",
+        "label": "(Independent Project)",
+        "bullets": [
+          "**Naraina Jewellers (Independent Venture):** Established proprietorship framework, vendor contracts, and licensing."
+        ]
+      }
+    ]
+  },
+  "Business Strategist": {
+    "EXPERIENCE": [
+      {
+        "id": "gandhi_co",
+        "title": "Legal Associate & Operations",
+        "organization": "Gandhi & Co.",
+        "dates": "May 2022 – Present",
+        "type": "full-time",
+        "minBullets": 4,
+        "bullets": [
+          "**Directed case workflows and client operations**, managing multi party commercial disputes with structured oversight.",
+          "**Reviewed high value commercial contracts**, mitigating corporate legal exposure across agreements and transactions.",
+          "**Applied strategic decision frameworks** from IIM MBA to streamline case research, documentation, and filing cycles.",
+          "**Negotiated settlement strategies with opposing counsels**, protecting client business interests and cash flows."
+        ]
+      },
+      {
+        "id": "naraina_jewellers",
+        "title": "Founder (Pre-Launch)",
+        "organization": "Naraina Jewellers (Proprietorship)",
+        "dates": "2025 – Present",
+        "type": "independent",
+        "label": "(Independent Venture)",
+        "bullets": [
+          "**Structured retail jewellery business model**, managing supply chain vendor relationships, pricing, and compliance."
+        ]
+      },
+      {
+        "id": "tata_aig",
+        "title": "Sales & Marketing Intern",
+        "organization": "TATA AIG General Insurance",
+        "dates": "Apr 2021 – Jun 2021",
+        "type": "internship",
+        "label": "(Internship)",
+        "bullets": [
+          "**Delivered market intelligence reports** to senior regional managers, identifying untapped insurance sales segments."
+        ]
+      }
+    ],
+    "PROJECTS": [
+      {
+        "id": "naraina_project",
+        "title": "Independent Projects & Ventures",
+        "organization": "Naraina Jewellers",
+        "dates": "",
+        "type": "independent",
+        "label": "(Independent Project)",
+        "bullets": [
+          "**Naraina Jewellers (Independent Venture):** Formulated market go to market model, supply chain networks, and margins."
+        ]
+      }
+    ]
+  },
+  "Entrepreneur": {
+    "EXPERIENCE": [
+      {
+        "id": "naraina_jewellers",
+        "title": "Founder (Pre-Launch)",
+        "organization": "Naraina Jewellers (Proprietorship)",
+        "dates": "2025 – Present",
+        "type": "independent",
+        "label": "(Independent Venture)",
+        "minBullets": 4,
+        "bullets": [
+          "**Established jewellery venture from scratch**, executing licensing, hallmark compliance, and corporate registrations.",
+          "**Formulated comprehensive financial budget**, forecasting working capital requirements, margins, and inventory turns.",
+          "**Evaluated supplier networks across manufacturing hubs**, negotiating competitive raw material and fabrication rates.",
+          "**Engineered product portfolio strategy**, curating customer segment targeted collections ahead of retail rollout."
+        ]
+      },
+      {
+        "id": "gandhi_co",
+        "title": "Associate",
+        "organization": "Gandhi & Co.",
+        "dates": "May 2022 – Present",
+        "type": "full-time",
+        "bullets": [
+          "**Advised commercial clients on corporate governance**, statutory filing compliance, and dispute resolution."
+        ]
+      },
+      {
+        "id": "tata_aig",
+        "title": "Sales & Marketing Intern",
+        "organization": "TATA AIG General Insurance",
+        "dates": "Apr 2021 – Jun 2021",
+        "type": "internship",
+        "label": "(Internship)",
+        "bullets": [
+          "**Conducted on ground sales channel assessments**, mapping competitor brokerage incentive structures and reach."
+        ]
+      }
+    ],
+    "PROJECTS": [
+      {
+        "id": "naraina_project",
+        "title": "Independent Projects & Ventures",
+        "organization": "Naraina Jewellers",
+        "dates": "",
+        "type": "independent",
+        "label": "(Independent Project)",
+        "bullets": [
+          "**Naraina Jewellers (Independent Venture):** Full ownership of supply chain setup, licensing, and financial planning."
+        ]
+      }
+    ]
+  }
+}

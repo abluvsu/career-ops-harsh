@@ -1,0 +1,53 @@
+
+  "name": {
+    "first": "Harsh",
+    "last": "Goyal",
+    "full": "Harsh Goyal"
+  },
+  "contact": {
+    "phone": "+91 97174 56320",
+    "email": "harshgoel551@gmail.com",
+    "linkedin": "https://linkedin.com/in/harsh-goyal",
+    "linkedinShort": "linkedin.com/in/harsh-goyal",
+    "portfolio": "",
+    "portfolioShort": "",
+    "defaultLocation": "Delhi NCR, India"
+  },
+  "education": [
+    {
+      "degree": "MBA, General Management",
+      "institution": "IIM Sirmaur",
+      "year": "2022",
+      "description": "Member, D2C Igniters' Club   |   Quantitative and strategic management curriculum"
+    },
+    {
+      "degree": "B.A. LLB (Hons.)",
+      "institution": "Amity Law School, Delhi (IP University)",
+      "year": "2018",
+      "description": "First Division   |   5 Year Integrated Degree   |   Chairperson, Model United Nations"
+    },
+    {
+      "degree": "Senior Secondary (12th Board)",
+      "institution": "Aggarsain Public School, Kurukshetra",
+      "year": "2013",
+      "description": "CBSE Board Examination"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Rajasthan Judicial Services Preliminary Examination",
+      "details": "Cleared competitive state judicial examination (2024)"
+    },
+    {
+      "title": "All India Bar Examination (AIBE)",
+      "details": "Bar Council of India qualification for legal practice (2021)"
+    },
+    {
+      "title": "3rd International Mathematics Olympiad",
+      "details": "Scored 98.66 percentile nationwide (2009)"
+    }
+  ],
+  "constants": {
+    "LOCATION": "Delhi NCR, India"
+  }
+}

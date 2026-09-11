@@ -1,0 +1,13 @@
+
+  "bannedTools": ["zapier", "n8n"],
+  "requiredMetrics": [],
+  "requiredDisclosures": {
+    "partTimeLabel": false,
+    "independentLabel": true
+  },
+  "portfolioUrlRequired": false,
+  "minPrimaryBullets": 4,
+  "minPillars": 3,
+  "minContentChars": 3000,
+  "minBoldMarkers": 30
+}
