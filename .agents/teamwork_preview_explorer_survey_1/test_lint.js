@@ -1,0 +1,12 @@
+const lint = require('../../core/agents/lint.js');
+console.log('Testing 0 to 1:', lint.lintConfig({ TAGLINE: '0 to 1 founder' }));
+console.log('Testing zero to one:', lint.lintConfig({ TAGLINE: 'zero to one founder' }));
+console.log('Testing 25L+:', lint.lintConfig({ TAGLINE: 'Rs 25L+ capital' }));
+console.log('Testing 50+:', lint.lintConfig({ TAGLINE: '50+ litigation cases' }));
+console.log('Testing 100+:', lint.lintConfig({ TAGLINE: '100+ court hearings' }));
+console.log('Testing 15+:', lint.lintConfig({ TAGLINE: '15+ contracts drafted' }));
+console.log('Testing 30+:', lint.lintConfig({ TAGLINE: '30+ consultations' }));
+console.log('Testing 98.66%:', lint.lintConfig({ TAGLINE: '98.66% in IMO' }));
+console.log('Testing 3-city (3 city):', lint.lintConfig({ TAGLINE: '3 city tour' }));
+console.log('Testing 63L+:', lint.lintConfig({ TAGLINE: '63L+ ARR' }));
+console.log('Testing 8club:', lint.lintConfig({ TAGLINE: '8club member' }));
