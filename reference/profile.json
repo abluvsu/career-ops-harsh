@@ -20,7 +20,8 @@
       "organization": "Naraina Jewellers (Proprietorship)",
       "dates": "2025 – Present",
       "type": "independent",
-      "label": "(Independent Venture)"
+      "label": "(Independent Venture)",
+      "intro": "Sole proprietorship retail jewellery venture. Managed end to end setup: multi city supplier sourcing across Surat, Mumbai, and Delhi, MOQ negotiations, store site finalization, and retail renovation."
     },
     {
       "id": "gandhi_co",
@@ -28,7 +29,8 @@
       "organization": "Gandhi & Co.",
       "dates": "May 2022 – Present",
       "type": "full-time",
-      "minBullets": 4
+      "minBullets": 4,
+      "intro": "Active dispute practice with 90% concentration before the High Court. Owned complete 5 stage case lifecycle: strategy, precedent research, drafting, registry filing, and courtroom oral arguments."
     },
     {
       "id": "tata_aig",
@@ -36,7 +38,8 @@
       "organization": "TATA AIG General Insurance",
       "dates": "Apr 2021 – Jun 2021",
       "type": "internship",
-      "label": "(Internship)"
+      "label": "(Internship)",
+      "intro": "Conducted insurance distribution channel assessments across agency and broker networks to identify underserved commercial market segments."
     }
   ],
   "education": [
@@ -74,13 +77,16 @@
     }
   ],
   "skills": [
-    "Legal research",
-    "Case management",
-    "Drafting",
-    "Market research",
+    "High Court litigation",
+    "Pleadings drafting",
+    "Statutory interpretation",
+    "Contract Act and NI Act",
+    "Supply chain sourcing",
+    "Vendor MOQ negotiations",
+    "Retail store operations",
+    "Unit economics modeling",
     "MS Excel",
-    "Structured analysis",
-    "Communication"
+    "Commercial due diligence"
   ],
   "constants": {
     "LOCATION": "New Delhi, India"

@@ -25,3 +25,10 @@ Rules:
 | 12 | Market Research | 3+ insurance distribution channels benchmarked | Competitor benchmarking and broker channel assessment at TATA AIG (2021) |
 | 13 | Academic Governance | 10+ campus initiatives driven in D2C Club | Student member driving campus events at IIM Sirmaur D2C Igniters Club |
 | 14 | Youth Leadership | 40+ committee delegates chaired in MUN | Chairperson and Co Chairperson at Amity Law School Model United Nations (2018) |
+| 15 | Courtroom Concentration | 90% litigation focus before High Court | Associated at Gandhi & Co. with 90% practice in High Court alongside District Courts |
+| 16 | Matter Pipeline Ownership | 5 stage dispute lifecycle owned end to end | Owned strategy, precedent research, drafting, registry filing, and oral arguments |
+| 17 | Subject Matter Scope | 4 core practice areas handled across dockets | Managed civil disputes, criminal proceedings, local tenancy laws, and education matters |
+| 18 | Statutory Mastery | 6 core statutory codes mastered comprehensively | Intensive mastery of CPC, CrPC, IPC, Contract Act, NI Act, and Rent Control Acts |
+| 19 | Sourcing Tour | 3 major manufacturing cities audited on site | Direct diligence across Surat diamond units, Mumbai bullion markets, and Delhi wholesale hubs |
+| 20 | Procurement Mechanics | Direct factory audits and MOQ negotiations | Evaluated diamond polishing units, merchant capacities, and supplier minimum order quantities |
+| 21 | Retail Store Execution | End to end commercial launch setup executed | Finalized prime retail store location, brand identity strategy, and store interior renovation |
