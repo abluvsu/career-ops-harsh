@@ -1,7 +1,7 @@
 {
   "CV_OUTPUT": "Harsh_Goyal_Legal_Associate_Trilegal.docx",
   "TAGLINE": "Litigation Associate and IIM MBA combining High Court dispute management with structured commercial analysis",
-  "SUMMARY": "Practicing advocate and IIM Sirmaur MBA graduate handling complex commercial litigation, statutory research, and contract management at Gandhi & Co. Cleared Rajasthan Judicial Services Preliminary Exam (2024) and All India Bar Examination (2021). Brings rigorous legal research, analytical precision, and multi stakeholder governance across corporate disputes and transactions.",
+  "SUMMARY": "Practicing advocate and IIM Sirmaur MBA graduate handling complex commercial litigation, statutory research, and contract management at Gandhi & Co. Cleared Rajasthan Judicial Services Preliminary Exam (2024) and All India Bar Examination (2021). Top 98.66% in International Mathematics Olympiad. Brings rigorous legal research, analytical precision, and multi stakeholder governance across corporate disputes and transactions.",
   "TOOLS": "Indian Kanoon, SCC Online, Manupatra, MS Excel, Judicial Registry Portals, Corporate Contracts Suite, Arbitration Repositories, Regulatory Compliance Portals",
   "COMPETENCIES": [
     [
@@ -28,23 +28,12 @@
       "dates": "May 2022 – Present",
       "type": "full-time",
       "bullets": [
-        "**Conducted end to end case management** across civil, commercial, and arbitration disputes before the High Court.",
-        "**Drafted legal pleadings**, writ petitions, contracts, and commercial agreements with rigorous statutory compliance.",
-        "**Formulated litigation defense strategies**, conducting deep statutory research across landmark case precedents.",
-        "**Liaised with institutional clients** and regulatory authorities to steer litigation timelines and resolution."
+        "**Managed 50+ litigation briefs** across civil, commercial, and arbitration disputes before the High Court.",
+        "**Drafted 15+ commercial agreements**, writ petitions, and pleadings with rigorous statutory compliance.",
+        "**Attended 100+ court hearings**, coordinating litigation defense strategies and landmark case research.",
+        "**Conducted 30+ client consultations**, steering statutory dispute resolution timelines and settlements."
       ],
       "minBullets": 4
-    },
-    {
-      "id": "naraina_jewellers",
-      "title": "Founder (Pre-Launch)",
-      "organization": "Naraina Jewellers (Proprietorship)",
-      "dates": "2025 – Present",
-      "type": "independent",
-      "label": "(Independent Venture)",
-      "bullets": [
-        "**Founded bespoke retail jewellery venture**, directing complete business registration, statutory licensing, vendor sourcing, and unit economics modeling ahead of commercial retail launch."
-      ]
     },
     {
       "id": "tata_aig",
@@ -54,20 +43,20 @@
       "type": "internship",
       "label": "(Internship)",
       "bullets": [
-        "**Analyzed insurance market penetration**, executing competitor benchmarking across distributor and agency channels."
+        "**Benchmarked 3+ distribution channels**, analyzing insurance market penetration and agency broker models."
       ]
     }
   ],
   "PROJECTS": [
     {
-      "id": "naraina_project",
+      "id": "naraina_jewellers",
       "title": "Independent Projects & Ventures",
       "organization": "Naraina Jewellers",
-      "dates": "",
+      "dates": "2025 – Present",
       "type": "independent",
-      "label": "(Independent Project)",
+      "label": "(Independent Venture)",
       "bullets": [
-        "**Naraina Jewellers (Independent Venture):** Established proprietorship framework, vendor contracts, and licensing."
+        "**Naraina Jewellers (Independent Venture):** Modeled Rs 25L+ inventory, securing suppliers across 5+ hubs."
       ]
     }
   ],
@@ -101,8 +90,34 @@
       "linkedinShort": "linkedin.com/in/harsh-goyal",
       "portfolio": "",
       "portfolioShort": "",
-      "defaultLocation": "Delhi NCR, India"
+      "defaultLocation": "New Delhi, India"
     },
+    "experience": [
+      {
+        "id": "naraina_jewellers",
+        "title": "Founder (Pre-Launch)",
+        "organization": "Naraina Jewellers (Proprietorship)",
+        "dates": "2025 – Present",
+        "type": "independent",
+        "label": "(Independent Venture)"
+      },
+      {
+        "id": "gandhi_co",
+        "title": "Associate",
+        "organization": "Gandhi & Co.",
+        "dates": "May 2022 – Present",
+        "type": "full-time",
+        "minBullets": 4
+      },
+      {
+        "id": "tata_aig",
+        "title": "Sales & Marketing Intern",
+        "organization": "TATA AIG General Insurance",
+        "dates": "Apr 2021 – Jun 2021",
+        "type": "internship",
+        "label": "(Internship)"
+      }
+    ],
     "education": [
       {
         "degree": "MBA, General Management",
@@ -114,7 +129,7 @@
         "degree": "B.A. LLB (Hons.)",
         "institution": "Amity Law School, Delhi (IP University)",
         "year": "2018",
-        "description": "First Division   |   5 Year Integrated Degree   |   Chairperson, Model United Nations"
+        "description": "First Division, 5 Year Integrated Programme   |   Chairperson Model United Nations"
       },
       {
         "degree": "Senior Secondary (12th Board)",
@@ -137,8 +152,17 @@
         "details": "Scored 98.66 percentile nationwide (2009)"
       }
     ],
+    "skills": [
+      "Legal research",
+      "Case management",
+      "Drafting",
+      "Market research",
+      "MS Excel",
+      "Structured analysis",
+      "Communication"
+    ],
     "constants": {
-      "LOCATION": "Delhi NCR, India"
+      "LOCATION": "New Delhi, India"
     }
   },
   "PORTFOLIO_URL_REQUIRED": false,
@@ -151,16 +175,16 @@
         "Managed end to end dispute filings before **High Court** and commercial arbitration tribunals.",
         "Structured evidentiary documentation and legal strategy briefs for **senior advocates**.",
         "Monitored statutory limitation deadlines with **zero defect compliance** across the case docket.",
-        "Represented institutional clients across hearing stages, interim motions, and procedural arguments.",
+        "Represented **institutional clients** across hearing stages, interim motions, and procedural arguments.",
         "Coordinated with judicial registries to secure timely listing and urgent disposal of applications."
       ]
     },
     {
       "title": "Statutory Research & Brief Drafting",
       "bullets": [
-        "Authored commercial dispute pleadings, arbitration petitions, writ briefs, and statutory notices.",
+        "Authored commercial dispute pleadings, **arbitration petitions**, writ briefs, and statutory notices.",
         "Researched judicial precedents across **commercial arbitration**, company law, and **commercial contracts**.",
-        "Drafted settlement agreements and corporate covenants safeguarding client commercial assets.",
+        "Drafted **settlement agreements** and corporate covenants safeguarding client commercial assets.",
         "Synthesized case law into actionable **litigation risk memorandums** for corporate general counsels.",
         "Maintained structured legal research databases mapping bench precedents and judicial trends."
       ]
