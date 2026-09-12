@@ -1,0 +1,293 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    @page {
+      size: A4;
+      margin: 0.5cm 0.8cm 0.5cm 0.8cm;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      font-family: 'Segoe UI', Calibri, 'DejaVu Sans', Arial, sans-serif;
+      color: #1A1A1A;
+      margin: 0;
+      padding: 0;
+      font-size: 8.5pt;
+      line-height: 1.3;
+      widows: 1;
+      orphans: 1;
+    }
+
+    strong { font-weight: 700; }
+
+    a { color: #333333; text-decoration: underline; }
+
+    /* Header */
+    .header {
+      text-align: center;
+      margin-bottom: 4px;
+    }
+    .section { margin-bottom: 6px; }
+    .name {
+      font-size: 1.6em;
+      margin: 0;
+      letter-spacing: 0.5px;
+    }
+    .tagline {
+      color: #333333;
+      font-size: 1.0em;
+      margin: 2px 0 4px 0;
+    }
+    .contact {
+      font-size: 0.82em;
+      color: #555555;
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      flex-wrap: nowrap;
+      white-space: nowrap;
+    }
+
+    /* Spaced Headers */
+    .spaced-header {
+      font-size: 9.5pt;
+      font-weight: 700;
+      color: #333333;
+      border-bottom: 1.5px solid #333333;
+      padding-bottom: 1px;
+      margin-top: 6px;
+      margin-bottom: 4px;
+    }
+
+    .why-body {
+      font-size: 8.5pt;
+      margin-bottom: 4px;
+      line-height: 1.3;
+    }
+
+    /* Pillar Grid */
+    .pillar-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 4px;
+      margin-bottom: 4px;
+    }
+    .pillar-cell {
+      padding: 4px 5px;
+      background: #F0F0F0;
+      border-radius: 3px;
+    }
+    .pillar-cell h4 {
+      color: #333333;
+      margin: 0 0 3px 0;
+      font-size: 9pt;
+    }
+    .pillar-cell ul { margin: 0; padding-left: 12px; font-size: 8.2pt; line-height: 1.25; }
+    .pillar-cell li { margin-bottom: 1px; }
+
+    /* Experience */
+    .experience-item { margin-bottom: 6px; }
+    .exp-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 2px;
+    }
+    .exp-title { font-size: 1.0em; font-weight: 700; color: #1A1A1A; }
+    .exp-org { font-size: 0.95em; font-weight: 700; color: #333333; }
+    .exp-date { font-size: 0.9em; font-style: italic; color: #555555; }
+    .role-intro { font-style: italic; font-size: 8.5pt; color: #555555; margin-bottom: 2px; }
+
+    ul { margin: 0; padding-left: 16px; }
+    li { margin-bottom: 2px; }
+    li a, .why-body a { color: #333333; text-decoration: underline; }
+
+    /* Education */
+    .edu-item { margin-bottom: 4px; }
+    .edu-header { display: flex; justify-content: space-between; align-items: baseline; }
+    .edu-deg { font-size: 0.95em; font-weight: 700; }
+    .edu-inst { font-size: 0.95em; }
+    .edu-date { font-size: 0.85em; font-style: italic; color: #555555; }
+    .edu-desc { font-size: 0.85em; font-style: italic; color: #555555; margin-top: 1px; }
+
+    /* Numbers Grid */
+    .numbers-intro { font-size: 8.5pt; margin-bottom: 4px; }
+    .numbers-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 4px 12px;
+      margin-bottom: 6px;
+    }
+    .number-item { font-size: 8.5pt; }
+    .number-item strong { color: #333333; }
+
+    /* Tools */
+    .tools-grouped { margin-bottom: 6px; }
+    .tool-row { font-size: 8.5pt; margin-bottom: 2px; }
+
+    /* Certifications */
+    .cert-list { margin: 0; padding-left: 16px; }
+    .cert-list li { font-size: 8.5pt; margin-bottom: 2px; }
+
+    hr.divider {
+      border: none;
+      border-top: 1.5px solid #2C2C2C;
+      margin: 4px 0 6px 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1 class="name"><span style="font-weight:300;">HARSH</span> <span style="font-weight:700; color:#333333;">GOYAL</span></h1>
+    <div class="tagline">IIM Sirmaur MBA combining structured negotiation expertise with commercial client management and market intelligence</div>
+    <div class="contact">
+      <span>+91 97174 56320</span>
+      <span>harshgoel551@gmail.com</span>
+      <span>linkedin.com/in/harsh-goyal-582b1a165</span>
+      
+      <span>New Delhi, India</span>
+    </div>
+    <hr class="divider">
+  </div>
+
+  
+    <div class="section">
+      <div class="spaced-header">WHY I FIT THIS ROLE AT TARGET COMPANY</div>
+      <div class="why-body">Business development at its core is about understanding what a client needs, structuring a solution, and closing the deal. I have been doing exactly that for four years in a different arena.
+
+At <strong>Gandhi & Co.</strong>, I managed <strong>50+ commercial dispute briefs</strong> and personally conducted <strong>30+ client consultations</strong> where the stakes were not quarterly targets but legal outcomes worth crores. That experience taught me structured problem diagnosis, stakeholder persuasion under pressure, and rigorous follow through. I attended <strong>100+ court hearings</strong> where every argument was a live negotiation with judges, opposing counsel, and client expectations simultaneously.
+
+My MBA from <strong>IIM Sirmaur</strong> sharpened the commercial lens. At <strong>TATA AIG</strong>, I benchmarked <strong>3+ insurance distribution channels</strong>, identifying underserved corporate segments. When I founded <strong>Naraina Jewellers</strong>, I personally negotiated <strong>12+ vendor agreements</strong> across Surat diamond factories, Mumbai bullion houses, and Delhi wholesale markets, securing direct manufacturer MOQs that bypassed intermediary markups.
+
+I read financial statements, build Excel models, and structure commercial proposals. I have closed deals under statutory limitation deadlines more unforgiving than any sales quarter. And I score in the <strong>top 98.66%</strong> on quantitative aptitude (3rd International Mathematics Olympiad).
+
+I am looking to channel this negotiation, analytical, and client management intensity into business development where I can drive revenue and build lasting commercial partnerships.</div>
+    </div>
+    
+  
+    <div class="section">
+      <div class="spaced-header">AGAINST THE 6 ROLE PILLARS</div>
+      <div class="pillar-grid">
+        
+          <div class="pillar-cell">
+            <h4>Client Acquisition & Relationship Management</h4>
+            <ul><li>Conducted <strong>30+ client consultations</strong>, diagnosing commercial needs and structuring dispute resolution plans.</li><li>Managed ongoing <strong>stakeholder relationships</strong> across corporate clients, external counsels, and senior partners.</li><li>Built trusted advisory position with <strong>institutional clients</strong> through consistent delivery and transparent updates.</li><li>Converted initial consultations into retained engagements by demonstrating structured <strong>problem solving</strong> ability.</li><li>Maintained <strong>zero client attrition</strong> across active dispute portfolio through proactive communication cadences.</li></ul>
+          </div>
+        
+          <div class="pillar-cell">
+            <h4>Negotiation & Deal Structuring</h4>
+            <ul><li>Negotiated <strong>15+ commercial agreements</strong> covering vendor covenants, service contracts, and settlement terms.</li><li>Structured <strong>12+ vendor agreements</strong> across diamond and bullion manufacturers in Surat, Mumbai, and Delhi.</li><li>Secured direct manufacturer MOQs that <strong>bypassed intermediary markups</strong>, protecting working capital margins.</li><li>Drafted risk allocation terms, indemnification clauses, and <strong>termination covenants</strong> for institutional deals.</li><li>Closed settlement negotiations with opposing counsels under tight <strong>statutory limitation</strong> deadlines.</li></ul>
+          </div>
+        
+          <div class="pillar-cell">
+            <h4>Market Intelligence & Competitive Analysis</h4>
+            <ul><li>Benchmarked <strong>3+ insurance distribution channels</strong> at TATA AIG, mapping agency and broker market penetration.</li><li>Identified <strong>underserved corporate segments</strong> through competitive landscape analysis and distribution audits.</li><li>Audited manufacturer capacities across <strong>5+ production hubs</strong>, evaluating quality standards and defect rates.</li><li>Assessed competitive pricing, credit structures, and <strong>wholesale terms</strong> across three major procurement cities.</li><li>Synthesized market intelligence into <strong>actionable strategy briefs</strong> for senior leadership and deal teams.</li></ul>
+          </div>
+        
+          <div class="pillar-cell">
+            <h4>Revenue Operations & Pipeline Management</h4>
+            <ul><li>Managed <strong>50+ active matter briefs</strong> simultaneously, tracking progress, deadlines, and resource allocation.</li><li>Coordinated <strong>end to end deal workflows</strong> from initial consultation through execution and post closure follow up.</li><li>Tracked statutory limitation deadlines with <strong>zero default compliance</strong> across the entire active portfolio.</li><li>Modeled <strong>Rs 25L+ working capital</strong> allocation across inventory, operations, and seasonal revenue cycles.</li><li>Built <strong>MS Excel forecasting models</strong> to project cash flows, margin structures, and inventory turnover rates.</li></ul>
+          </div>
+        
+          <div class="pillar-cell">
+            <h4>Strategic Communication & Presentations</h4>
+            <ul><li>Delivered <strong>oral arguments</strong> before High Court judicial benches, demonstrating structured persuasion skills.</li><li>Authored <strong>litigation risk memorandums</strong> and client advisory briefs synthesizing complex data into clear actions.</li><li>Presented case progress updates, risk assessments, and <strong>settlement options</strong> to corporate decision makers.</li><li>Chaired <strong>40+ delegate committees</strong> as Model United Nations Chairperson, managing structured group discourse.</li><li>Crafted commercial proposals and <strong>strategic positioning</strong> documents for institutional client engagements.</li></ul>
+          </div>
+        
+          <div class="pillar-cell">
+            <h4>Venture Building & Commercial Ownership</h4>
+            <ul><li>Founded and operated <strong>Naraina Jewellers</strong> as sole proprietor, managing end to end commercial launch setup.</li><li>Executed <strong>multi city procurement</strong> tours across Surat diamond factories, Mumbai bullion, and Delhi wholesale.</li><li>Formulated <strong>unit economics</strong> models covering retail margin structures, inventory cycles, and break even targets.</li><li>Managed commercial registrations, <strong>trade licensing</strong>, and brand identity strategy for retail store launch.</li><li>Built direct manufacturer relationships that reduced procurement costs and improved <strong>product assortment</strong>.</li></ul>
+          </div>
+        
+      </div>
+    </div>
+    
+  <div class="section"><div class="spaced-header">PROFESSIONAL EXPERIENCE</div>
+        <div class="experience-item">
+          <div class="exp-header">
+            <span><strong class="exp-title">Associate, Strategy & Legal Operations</strong> &nbsp;|&nbsp; <span class="exp-org">Gandhi & Co.</span></span>
+            <span class="exp-date">May 2022 – Aug 2026</span>
+          </div>
+          
+          <ul><li><strong>Structured case workflows for 50+ matters</strong>, managing 90% High Court dockets from strategy to courtroom.</li><li><strong>Negotiated 15+ high value agreements</strong>, mitigating statutory and commercial risks under the Contract Act.</li><li><strong>Applied MBA analytical frameworks</strong> to deconstruct statutory compliance across 30+ commercial dispute cases.</li><li><strong>Coordinated 100+ legal filings</strong>, tracking judicial timelines and counsel strategies before the court.</li></ul>
+        </div>
+      
+        <div class="experience-item">
+          <div class="exp-header">
+            <span><strong class="exp-title">Sales & Marketing Intern (Internship)</strong> &nbsp;|&nbsp; <span class="exp-org">TATA AIG General Insurance</span></span>
+            <span class="exp-date">Apr 2021 – Jun 2021</span>
+          </div>
+          
+          <ul><li><strong>Delivered market intelligence across 3+ channels</strong>, identifying untapped insurance corporate segments.</li></ul>
+        </div>
+      </div>
+  <div class="section">
+          <div class="exp-header">
+            <span><strong class="exp-title">Independent Projects & Ventures (Independent Venture)</strong> &nbsp;|&nbsp; <span class="exp-org">Naraina Jewellers</span></span>
+            <span class="exp-date">2025 – 2026</span>
+          </div>
+          
+          <ul><li><strong>Naraina Jewellers (Independent Venture):</strong> Sourced direct from Surat diamond factories, negotiating MOQs.</li></ul>
+        </div>
+
+  <div class="section">
+    <div class="spaced-header">EDUCATION</div>
+    
+      <div class="edu-item">
+        <div class="edu-header">
+          <span><strong class="edu-deg">MBA, General Management</strong> &nbsp;|&nbsp; <span class="edu-inst">IIM Sirmaur</span></span>
+          <span class="edu-date">2022</span>
+        </div>
+        <div class="edu-desc">Member, D2C Igniters' Club   |   Quantitative and strategic management curriculum</div>
+      </div>
+    
+      <div class="edu-item">
+        <div class="edu-header">
+          <span><strong class="edu-deg">B.A. LLB (Hons.)</strong> &nbsp;|&nbsp; <span class="edu-inst">Amity Law School, Delhi (IP University)</span></span>
+          <span class="edu-date">2018</span>
+        </div>
+        <div class="edu-desc">First Division, 5 Year Integrated Programme   |   Chairperson Model United Nations</div>
+      </div>
+    
+      <div class="edu-item">
+        <div class="edu-header">
+          <span><strong class="edu-deg">Senior Secondary (12th Board)</strong> &nbsp;|&nbsp; <span class="edu-inst">Aggarsain Public School, Kurukshetra</span></span>
+          <span class="edu-date">2013</span>
+        </div>
+        <div class="edu-desc">CBSE Board Examination</div>
+      </div>
+    
+  </div>
+
+  
+    <div class="section">
+      <div class="spaced-header">NUMBERS THAT MATTER FOR THIS ROLE</div>
+      
+      <div class="numbers-grid">
+        <div class="number-item"><strong>Client Portfolio:</strong> 30+ client consultations and 50+ commercial matter briefs managed over 4 years</div><div class="number-item"><strong>Vendor Deals:</strong> 12+ vendor agreements negotiated across 3 manufacturing cities</div><div class="number-item"><strong>Quantitative Aptitude:</strong> Top 98.66 percentile nationwide in 3rd International Mathematics Olympiad</div><div class="number-item"><strong>Capital Modeling:</strong> Rs 25L+ working capital allocation modeled for retail venture launch</div>
+      </div>
+    </div>
+    
+  
+    <div class="section">
+      <div class="spaced-header">TOOLS AND TECHNICAL SKILLS</div>
+      <div class="tools-grouped">
+        <div class="tool-row"><strong>Business Intelligence and Analytics:</strong> MS Excel, Tally ERP, Financial Modeling, Market Research Databases</div><div class="tool-row"><strong>Client and Deal Management:</strong> CRM Fundamentals, Contract Review, Pipeline Tracking, MS Word</div><div class="tool-row"><strong>Research and Communication:</strong> SCC Online, Manupatra, Presentation Design, Strategic Briefing</div>
+      </div>
+    </div>
+    
+  
+    <div class="section">
+      <div class="spaced-header">CERTIFICATIONS</div>
+      <ul class="cert-list">
+        <li><strong>Rajasthan Judicial Services Preliminary Examination</strong> | Cleared competitive state judicial examination (2024)</li><li><strong>All India Bar Examination (AIBE)</strong> | Bar Council of India qualification for legal practice (2021)</li><li><strong>3rd International Mathematics Olympiad</strong> | Scored 98.66 percentile nationwide (2009)</li>
+      </ul>
+    </div>
+    
+</body>
+</html>
+  

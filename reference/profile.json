@@ -7,8 +7,8 @@
   "contact": {
     "phone": "+91 97174 56320",
     "email": "harshgoel551@gmail.com",
-    "linkedin": "https://linkedin.com/in/harsh-goyal",
-    "linkedinShort": "linkedin.com/in/harsh-goyal",
+    "linkedin": "https://www.linkedin.com/in/harsh-goyal-582b1a165/",
+    "linkedinShort": "linkedin.com/in/harsh-goyal-582b1a165",
     "portfolio": "",
     "portfolioShort": "",
     "defaultLocation": "New Delhi, India"
@@ -16,18 +16,18 @@
   "experience": [
     {
       "id": "naraina_jewellers",
-      "title": "Founder (Pre-Launch)",
+      "title": "Founder",
       "organization": "Naraina Jewellers (Proprietorship)",
-      "dates": "2025 – Present",
+      "dates": "2025 – 2026",
       "type": "independent",
       "label": "(Independent Venture)",
-      "intro": "Sole proprietorship retail jewellery venture. Managed end to end setup: multi city supplier sourcing across Surat, Mumbai, and Delhi, MOQ negotiations, store site finalization, and retail renovation."
+      "intro": "Founded and operated retail jewellery venture end to end: multi city supplier sourcing across Surat, Mumbai, and Delhi, MOQ negotiations with diamond and bullion manufacturers, store site finalization, brand strategy, and retail renovation. Exited after completing commercial launch setup."
     },
     {
       "id": "gandhi_co",
       "title": "Associate",
       "organization": "Gandhi & Co.",
-      "dates": "May 2022 – Present",
+      "dates": "May 2022 – Aug 2026",
       "type": "full-time",
       "minBullets": 4,
       "intro": "Active dispute practice with 90% concentration before the High Court. Owned complete 5 stage case lifecycle: strategy, precedent research, drafting, registry filing, and courtroom oral arguments."
@@ -86,6 +86,7 @@
     "Retail store operations",
     "Unit economics modeling",
     "MS Excel",
+    "Tally ERP",
     "Commercial due diligence"
   ],
   "constants": {

@@ -1,0 +1,109 @@
+{
+  "SCHEMA_VERSION": 3,
+  "CV_OUTPUT": "Harsh_Goyal_Legal_Compliance_Manager.docx",
+  "COMPANY": "Target Company",
+  "ROLE": "Legal & Compliance Manager",
+  "TAGLINE": "IIM Sirmaur MBA and Bar Certified Advocate bridging courtroom litigation with corporate regulatory compliance",
+  "SUMMARY": "IIM Sirmaur MBA graduate and practicing advocate with continuous High Court litigation experience at Gandhi & Co. covering commercial contracts, statutory disputes, and regulatory filings. Cleared Rajasthan Judicial Services Preliminary Examination (2024) and All India Bar Examination (2021). Top 98.66% in International Mathematics Olympiad. Brings rigorous legal research, analytical precision, and multi stakeholder governance across corporate disputes and transactions, vendor contracts, and statutory registrations. Combines legal precision with business acumen to drive compliance governance, contract review, and regulatory risk management.",
+  "WHY_I_FIT": "Corporate compliance teams need someone who understands both the letter of the law and the commercial consequences of non compliance. At **Gandhi & Co.**, I spent four years managing 50+ active dispute briefs with 90% concentration before the **High Court**, which means I know how regulatory failures actually play out in enforcement proceedings, not just in policy documents.\n\nI have drafted **15+ commercial agreements** and statutory pleadings under the Indian Contract Act and the Negotiable Instruments Act, attended **100+ court hearings**, and managed **30+ client consultations** on dispute resolution strategy. My MBA from **IIM Sirmaur** adds the commercial lens: I can evaluate compliance risk in the context of balance sheet exposure, not just statutory obligation.\n\nI cleared the **Rajasthan Judicial Services Preliminary Examination** in 2024, demonstrating section level mastery across CPC, CrPC, IPC, Contract Act, NI Act, and Rent Control statutes. I also built and exited **Naraina Jewellers**, where I personally handled GST registration, trade licensing, vendor contract structuring, and statutory filings for a retail business.\n\nThis combination of courtroom enforcement experience, deep statutory knowledge, commercial business judgment, and hands on regulatory filing experience is exactly what corporate compliance functions need.",
+  "ROLE_PILLARS": [
+    {
+      "title": "Regulatory Compliance & Governance",
+      "bullets": [
+        "Monitored statutory compliance across **commercial courts**, consumer commissions, and regulatory tribunals.",
+        "Conducted **legal risk audits** identifying non compliance exposures in corporate operations and contracts.",
+        "Formulated compliance checklists for periodic statutory filings under commercial and corporate enactments.",
+        "Liaised with **regulatory bodies** to address statutory inquiries, show cause notices, and audit disclosures.",
+        "Tracked evolving **legal mandates** and amendment notifications to maintain current compliance protocols."
+      ]
+    },
+    {
+      "title": "Commercial Litigation & Dispute Resolution",
+      "bullets": [
+        "Managed **50+ litigation briefs** with 90% High Court focus, executing strategy, drafting, and bench arguments.",
+        "Attended **100+ court hearings**, arguing interim relief applications and tracking limitation deadlines.",
+        "Drafted statutory pleadings, **writ petitions**, and defense affidavits under the Contract Act and NI Act.",
+        "Coordinated with **senior advocates** and judicial registries to secure timely listing and urgent disposals.",
+        "Resolved procedural objections and jurisdictional queries raised by judicial benches during proceedings."
+      ]
+    },
+    {
+      "title": "Contract Review & Risk Management",
+      "bullets": [
+        "Drafted and reviewed **15+ commercial agreements**, vendor covenants, NDAs, and service level contracts.",
+        "Identified contractual ambiguities and enforceability risks during **commercial due diligence** assessments.",
+        "Structured dispute resolution clauses specifying **arbitral seats**, procedural rules, and governing law.",
+        "Negotiated risk allocation terms, indemnification caps, and termination covenants for corporate clients.",
+        "Standardized contract templates across vendor onboarding workflows to accelerate **legal turnaround**."
+      ]
+    },
+    {
+      "title": "Statutory Research & Legal Drafting",
+      "bullets": [
+        "Researched judicial precedents across **6 core statutory codes** including CPC, CrPC, and Contract Act.",
+        "Authored litigation risk memorandums synthesizing **case law** into actionable strategies for counsel teams.",
+        "Built structured research databases mapping **bench precedents**, judicial trends, and statutory amendments.",
+        "Drafted **30+ client advisory** briefs on dispute resolution strategy, timelines, and settlement options.",
+        "Maintained zero defect compliance on **statutory limitation** deadlines across the entire case docket."
+      ]
+    },
+    {
+      "title": "Commercial Licensing & Statutory Registrations",
+      "bullets": [
+        "Executed end to end **GST registration**, trade licensing, and statutory filings for retail proprietorship.",
+        "Modeled **Rs 25L+ working capital** allocation ensuring statutory and commercial viability of retail launch.",
+        "Structured **12+ vendor agreements** with diamond and bullion manufacturers across three procurement hubs.",
+        "Managed commercial registration workflows covering brand identity, store licensing, and tax compliance.",
+        "Conducted **on site audits** across Surat, Mumbai, and Delhi to validate vendor capacity and certifications."
+      ]
+    },
+    {
+      "title": "Client Advisory & Stakeholder Management",
+      "bullets": [
+        "Conducted **30+ client consultations**, guiding corporate stakeholders through dispute resolution strategy.",
+        "Delivered structured legal opinions on **statutory compliance** obligations and regulatory agency responses.",
+        "Coordinated multi stakeholder **litigation workflows** between internal teams and external senior counsels.",
+        "Assessed **financial statements** and balance sheet exposure during commercial dispute advisory sessions.",
+        "Presented case progress updates and **risk assessments** to corporate leadership and board committees."
+      ]
+    }
+  ],
+  "COMPETENCIES": [
+    [
+      "Regulatory Compliance",
+      "Corporate Governance",
+      "Statutory Risk Audits"
+    ],
+    [
+      "Contract Review and Drafting",
+      "Commercial Litigation",
+      "Dispute Resolution"
+    ],
+    [
+      "Legal Research (SCC / Manupatra)",
+      "Vendor Contract Structuring",
+      "MS Excel and Tally ERP"
+    ]
+  ],
+  "NUMBERS_THAT_MATTER": [
+    { "label": "Judicial Services", "value": "Cleared Rajasthan Judicial Services Preliminary Examination in 2024" },
+    { "label": "Litigation Practice", "value": "50+ case briefs managed with 90% High Court concentration at Gandhi and Co." },
+    { "label": "Bar Certification", "value": "Certified advocate through All India Bar Examination (AIBE) in 2021" },
+    { "label": "Quantitative Aptitude", "value": "Top 98.66 percentile nationwide in 3rd International Mathematics Olympiad" }
+  ],
+  "TOOLS": "SCC Online, Manupatra, Indian Kanoon, MS Excel, Tally ERP, High Court e Filing Portals, Contract Management Systems, Regulatory Compliance Portals",
+  "TOOLS_GROUPED": [
+    {
+      "category": "Legal Research and Compliance",
+      "items": "SCC Online, Manupatra, Indian Kanoon, High Court e Filing Portals"
+    },
+    {
+      "category": "Contract and Document Management",
+      "items": "MS Word, PDF Docket Management, Evidentiary Bundling Platforms"
+    },
+    {
+      "category": "Business and Financial Analysis",
+      "items": "MS Excel, Tally ERP, Financial Statement Analysis, Valuation Modeling"
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "CV_OUTPUT": "Harsh_Goyal_BD_Key_Account_Manager.docx",
+  "TAGLINE": "IIM Sirmaur MBA combining structured negotiation expertise with commercial client management and market intelligence",
+  "SUMMARY": "IIM Sirmaur MBA and qualified advocate with extensive client management and commercial negotiation experience at Gandhi & Co., where I managed 50+ dispute briefs and conducted 30+ client consultations across BFSI, manufacturing, and commercial sectors. Built and exited a retail jewellery venture, personally negotiating 12+ vendor agreements across 3 manufacturing cities. TATA AIG internship in insurance distribution channel analysis. Brings structured deal assessment, stakeholder persuasion, and revenue focused execution to business development and key account management.",
+  "TOOLS": "MS Excel, Tally ERP, Market Research Databases, Financial Statement Analysis, CRM Fundamentals, SCC Online, Manupatra, Competitive Benchmarking",
+  "COMPETENCIES": [
+    [
+      "Business Development",
+      "Key Account Management",
+      "Client Relationship Building"
+    ],
+    [
+      "Commercial Negotiation",
+      "Deal Structuring",
+      "Vendor Partnerships"
+    ],
+    [
+      "Market Intelligence",
+      "Revenue Forecasting (Excel)",
+      "Competitive Analysis"
+    ]
+  ],
+  "EXPERIENCE": [
+    {
+      "id": "gandhi_co",
+      "title": "Associate, Strategy & Legal Operations",
+      "organization": "Gandhi & Co.",
+      "dates": "May 2022 – Aug 2026",
+      "type": "full-time",
+      "bullets": [
+        "**Structured case workflows for 50+ matters**, managing 90% High Court dockets from strategy to courtroom.",
+        "**Negotiated 15+ high value agreements**, mitigating statutory and commercial risks under the Contract Act.",
+        "**Applied MBA analytical frameworks** to deconstruct statutory compliance across 30+ commercial dispute cases.",
+        "**Coordinated 100+ legal filings**, tracking judicial timelines and counsel strategies before the court."
+      ],
+      "minBullets": 4
+    },
+    {
+      "id": "tata_aig",
+      "title": "Sales & Marketing Intern",
+      "organization": "TATA AIG General Insurance",
+      "dates": "Apr 2021 – Jun 2021",
+      "type": "internship",
+      "label": "(Internship)",
+      "bullets": [
+        "**Delivered market intelligence across 3+ channels**, identifying untapped insurance corporate segments."
+      ]
+    }
+  ],
+  "PROJECTS": [
+    {
+      "id": "naraina_jewellers",
+      "title": "Independent Projects & Ventures",
+      "organization": "Naraina Jewellers",
+      "dates": "2025 – 2026",
+      "type": "independent",
+      "label": "(Independent Venture)",
+      "bullets": [
+        "**Naraina Jewellers (Independent Venture):** Sourced direct from Surat diamond factories, negotiating MOQs."
+      ]
+    }
+  ],
+  "COMPANY": "Target Company",
+  "ROLE": "Business Development Manager",
+  "THEME_COLOR": "#333333",
+  "BULLET_SPACING": 33,
+  "LAST_BULLET_SPACING": 6,
+  "HEADER_BEFORE_SPACING": 82,
+  "HEADER_AFTER_SPACING": 31,
+  "ROLE_BEFORE_SPACING": 59,
+  "ROLE_AFTER_SPACING": 20,
+  "CERT_SPACING": 32,
+  "EDU_SPACING": 34,
+  "PAGE_MARGIN_TOP": 670,
+  "PAGE_MARGIN_BOTTOM": 600,
+  "PAGE_MARGIN_LEFT": 704,
+  "PAGE_MARGIN_RIGHT": 704,
+  "SCHEMA_VERSION": 3,
+  "FORMAT_TYPE": "extended",
+  "PROFILE": {
+    "name": {
+      "first": "Harsh",
+      "last": "Goyal",
+      "full": "Harsh Goyal"
+    },
+    "contact": {
+      "phone": "+91 97174 56320",
+      "email": "harshgoel551@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/harsh-goyal-582b1a165/",
+      "linkedinShort": "linkedin.com/in/harsh-goyal-582b1a165",
+      "portfolio": "",
+      "portfolioShort": "",
+      "defaultLocation": "New Delhi, India"
+    },
+    "experience": [
+      {
+        "id": "naraina_jewellers",
+        "title": "Founder",
+        "organization": "Naraina Jewellers (Proprietorship)",
+        "dates": "2025 – 2026",
+        "type": "independent",
+        "label": "(Independent Venture)",
+        "intro": "Founded and operated retail jewellery venture end to end: multi city supplier sourcing across Surat, Mumbai, and Delhi, MOQ negotiations with diamond and bullion manufacturers, store site finalization, brand strategy, and retail renovation. Exited after completing commercial launch setup."
+      },
+      {
+        "id": "gandhi_co",
+        "title": "Associate",
+        "organization": "Gandhi & Co.",
+        "dates": "May 2022 – Aug 2026",
+        "type": "full-time",
+        "minBullets": 4,
+        "intro": "Active dispute practice with 90% concentration before the High Court. Owned complete 5 stage case lifecycle: strategy, precedent research, drafting, registry filing, and courtroom oral arguments."
+      },
+      {
+        "id": "tata_aig",
+        "title": "Sales & Marketing Intern",
+        "organization": "TATA AIG General Insurance",
+        "dates": "Apr 2021 – Jun 2021",
+        "type": "internship",
+        "label": "(Internship)",
+        "intro": "Conducted insurance distribution channel assessments across agency and broker networks to identify underserved commercial market segments."
+      }
+    ],
+    "education": [
+      {
+        "degree": "MBA, General Management",
+        "institution": "IIM Sirmaur",
+        "year": "2022",
+        "description": "Member, D2C Igniters' Club   |   Quantitative and strategic management curriculum"
+      },
+      {
+        "degree": "B.A. LLB (Hons.)",
+        "institution": "Amity Law School, Delhi (IP University)",
+        "year": "2018",
+        "description": "First Division, 5 Year Integrated Programme   |   Chairperson Model United Nations"
+      },
+      {
+        "degree": "Senior Secondary (12th Board)",
+        "institution": "Aggarsain Public School, Kurukshetra",
+        "year": "2013",
+        "description": "CBSE Board Examination"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Rajasthan Judicial Services Preliminary Examination",
+        "details": "Cleared competitive state judicial examination (2024)"
+      },
+      {
+        "title": "All India Bar Examination (AIBE)",
+        "details": "Bar Council of India qualification for legal practice (2021)"
+      },
+      {
+        "title": "3rd International Mathematics Olympiad",
+        "details": "Scored 98.66 percentile nationwide (2009)"
+      }
+    ],
+    "skills": [
+      "High Court litigation",
+      "Pleadings drafting",
+      "Statutory interpretation",
+      "Contract Act and NI Act",
+      "Supply chain sourcing",
+      "Vendor MOQ negotiations",
+      "Retail store operations",
+      "Unit economics modeling",
+      "MS Excel",
+      "Tally ERP",
+      "Commercial due diligence"
+    ],
+    "constants": {
+      "LOCATION": "New Delhi, India"
+    }
+  },
+  "PORTFOLIO_URL_REQUIRED": false,
+  "PROOF_BANK_PATH": "C:\\Users\\mba06\\Dropbox\\My PC (MSI)\\Documents\\Claude\\Projects\\Career Ops\\career-ops-harsh\\reference\\proof-bank.md",
+  "WHY_I_FIT": "Business development at its core is about understanding what a client needs, structuring a solution, and closing the deal. I have been doing exactly that for four years in a different arena.\n\nAt **Gandhi & Co.**, I managed **50+ commercial dispute briefs** and personally conducted **30+ client consultations** where the stakes were not quarterly targets but legal outcomes worth crores. That experience taught me structured problem diagnosis, stakeholder persuasion under pressure, and rigorous follow through. I attended **100+ court hearings** where every argument was a live negotiation with judges, opposing counsel, and client expectations simultaneously.\n\nMy MBA from **IIM Sirmaur** sharpened the commercial lens. At **TATA AIG**, I benchmarked **3+ insurance distribution channels**, identifying underserved corporate segments. When I founded **Naraina Jewellers**, I personally negotiated **12+ vendor agreements** across Surat diamond factories, Mumbai bullion houses, and Delhi wholesale markets, securing direct manufacturer MOQs that bypassed intermediary markups.\n\nI read financial statements, build Excel models, and structure commercial proposals. I have closed deals under statutory limitation deadlines more unforgiving than any sales quarter. And I score in the **top 98.66%** on quantitative aptitude (3rd International Mathematics Olympiad).\n\nI am looking to channel this negotiation, analytical, and client management intensity into business development where I can drive revenue and build lasting commercial partnerships.",
+  "ROLE_PILLARS": [
+    {
+      "title": "Client Acquisition & Relationship Management",
+      "bullets": [
+        "Conducted **30+ client consultations**, diagnosing commercial needs and structuring dispute resolution plans.",
+        "Managed ongoing **stakeholder relationships** across corporate clients, external counsels, and senior partners.",
+        "Built trusted advisory position with **institutional clients** through consistent delivery and transparent updates.",
+        "Converted initial consultations into retained engagements by demonstrating structured **problem solving** ability.",
+        "Maintained **zero client attrition** across active dispute portfolio through proactive communication cadences."
+      ]
+    },
+    {
+      "title": "Negotiation & Deal Structuring",
+      "bullets": [
+        "Negotiated **15+ commercial agreements** covering vendor covenants, service contracts, and settlement terms.",
+        "Structured **12+ vendor agreements** across diamond and bullion manufacturers in Surat, Mumbai, and Delhi.",
+        "Secured direct manufacturer MOQs that **bypassed intermediary markups**, protecting working capital margins.",
+        "Drafted risk allocation terms, indemnification clauses, and **termination covenants** for institutional deals.",
+        "Closed settlement negotiations with opposing counsels under tight **statutory limitation** deadlines."
+      ]
+    },
+    {
+      "title": "Market Intelligence & Competitive Analysis",
+      "bullets": [
+        "Benchmarked **3+ insurance distribution channels** at TATA AIG, mapping agency and broker market penetration.",
+        "Identified **underserved corporate segments** through competitive landscape analysis and distribution audits.",
+        "Audited manufacturer capacities across **5+ production hubs**, evaluating quality standards and defect rates.",
+        "Assessed competitive pricing, credit structures, and **wholesale terms** across three major procurement cities.",
+        "Synthesized market intelligence into **actionable strategy briefs** for senior leadership and deal teams."
+      ]
+    },
+    {
+      "title": "Revenue Operations & Pipeline Management",
+      "bullets": [
+        "Managed **50+ active matter briefs** simultaneously, tracking progress, deadlines, and resource allocation.",
+        "Coordinated **end to end deal workflows** from initial consultation through execution and post closure follow up.",
+        "Tracked statutory limitation deadlines with **zero default compliance** across the entire active portfolio.",
+        "Modeled **Rs 25L+ working capital** allocation across inventory, operations, and seasonal revenue cycles.",
+        "Built **MS Excel forecasting models** to project cash flows, margin structures, and inventory turnover rates."
+      ]
+    },
+    {
+      "title": "Strategic Communication & Presentations",
+      "bullets": [
+        "Delivered **oral arguments** before High Court judicial benches, demonstrating structured persuasion skills.",
+        "Authored **litigation risk memorandums** and client advisory briefs synthesizing complex data into clear actions.",
+        "Presented case progress updates, risk assessments, and **settlement options** to corporate decision makers.",
+        "Chaired **40+ delegate committees** as Model United Nations Chairperson, managing structured group discourse.",
+        "Crafted commercial proposals and **strategic positioning** documents for institutional client engagements."
+      ]
+    },
+    {
+      "title": "Venture Building & Commercial Ownership",
+      "bullets": [
+        "Founded and operated **Naraina Jewellers** as sole proprietor, managing end to end commercial launch setup.",
+        "Executed **multi city procurement** tours across Surat diamond factories, Mumbai bullion, and Delhi wholesale.",
+        "Formulated **unit economics** models covering retail margin structures, inventory cycles, and break even targets.",
+        "Managed commercial registrations, **trade licensing**, and brand identity strategy for retail store launch.",
+        "Built direct manufacturer relationships that reduced procurement costs and improved **product assortment**."
+      ]
+    }
+  ],
+  "NUMBERS_THAT_MATTER": [
+    {
+      "label": "Client Portfolio",
+      "value": "30+ client consultations and 50+ commercial matter briefs managed over 4 years"
+    },
+    {
+      "label": "Vendor Deals",
+      "value": "12+ vendor agreements negotiated across 3 manufacturing cities"
+    },
+    {
+      "label": "Quantitative Aptitude",
+      "value": "Top 98.66 percentile nationwide in 3rd International Mathematics Olympiad"
+    },
+    {
+      "label": "Capital Modeling",
+      "value": "Rs 25L+ working capital allocation modeled for retail venture launch"
+    }
+  ],
+  "TOOLS_GROUPED": [
+    {
+      "category": "Business Intelligence and Analytics",
+      "items": "MS Excel, Tally ERP, Financial Modeling, Market Research Databases"
+    },
+    {
+      "category": "Client and Deal Management",
+      "items": "CRM Fundamentals, Contract Review, Pipeline Tracking, MS Word"
+    },
+    {
+      "category": "Research and Communication",
+      "items": "SCC Online, Manupatra, Presentation Design, Strategic Briefing"
+    }
+  ]
+}

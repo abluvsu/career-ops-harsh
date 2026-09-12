@@ -1,0 +1,302 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    @page {
+      size: A4;
+      margin: 0.5cm 0.8cm 0.5cm 0.8cm;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      font-family: 'Segoe UI', Calibri, 'DejaVu Sans', Arial, sans-serif;
+      color: #1A1A1A;
+      margin: 0;
+      padding: 0;
+      font-size: 8.5pt;
+      line-height: 1.3;
+      widows: 1;
+      orphans: 1;
+    }
+
+    strong { font-weight: 700; }
+
+    a { color: #333333; text-decoration: underline; }
+
+    /* Header */
+    .header {
+      text-align: center;
+      margin-bottom: 4px;
+    }
+    .section { margin-bottom: 6px; }
+    .name {
+      font-size: 1.6em;
+      margin: 0;
+      letter-spacing: 0.5px;
+    }
+    .tagline {
+      color: #333333;
+      font-size: 1.0em;
+      margin: 2px 0 4px 0;
+    }
+    .contact {
+      font-size: 0.82em;
+      color: #555555;
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      flex-wrap: nowrap;
+      white-space: nowrap;
+    }
+
+    /* Spaced Headers */
+    .spaced-header {
+      font-size: 9.5pt;
+      font-weight: 700;
+      color: #333333;
+      border-bottom: 1.5px solid #333333;
+      padding-bottom: 1px;
+      margin-top: 6px;
+      margin-bottom: 4px;
+    }
+
+    .why-body {
+      font-size: 8.5pt;
+      margin-bottom: 4px;
+      line-height: 1.3;
+    }
+
+    /* Pillar Grid */
+    .pillar-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 4px;
+      margin-bottom: 4px;
+    }
+    .pillar-cell {
+      padding: 4px 5px;
+      background: #F0F0F0;
+      border-radius: 3px;
+    }
+    .pillar-cell h4 {
+      color: #333333;
+      margin: 0 0 3px 0;
+      font-size: 9pt;
+    }
+    .pillar-cell ul { margin: 0; padding-left: 12px; font-size: 8.2pt; line-height: 1.25; }
+    .pillar-cell li { margin-bottom: 1px; }
+
+    /* Experience */
+    .experience-item { margin-bottom: 6px; }
+    .exp-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 2px;
+    }
+    .exp-title { font-size: 1.0em; font-weight: 700; color: #1A1A1A; }
+    .exp-org { font-size: 0.95em; font-weight: 700; color: #333333; }
+    .exp-date { font-size: 0.9em; font-style: italic; color: #555555; }
+    .role-intro { font-style: italic; font-size: 8.5pt; color: #555555; margin-bottom: 2px; }
+
+    ul { margin: 0; padding-left: 16px; }
+    li { margin-bottom: 2px; }
+    li a, .why-body a { color: #333333; text-decoration: underline; }
+
+    /* Education */
+    .edu-item { margin-bottom: 4px; }
+    .edu-header { display: flex; justify-content: space-between; align-items: baseline; }
+    .edu-deg { font-size: 0.95em; font-weight: 700; }
+    .edu-inst { font-size: 0.95em; }
+    .edu-date { font-size: 0.85em; font-style: italic; color: #555555; }
+    .edu-desc { font-size: 0.85em; font-style: italic; color: #555555; margin-top: 1px; }
+
+    /* Numbers Grid */
+    .numbers-intro { font-size: 8.5pt; margin-bottom: 4px; }
+    .numbers-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 4px 12px;
+      margin-bottom: 6px;
+    }
+    .number-item { font-size: 8.5pt; }
+    .number-item strong { color: #333333; }
+
+    /* Tools */
+    .tools-grouped { margin-bottom: 6px; }
+    .tool-row { font-size: 8.5pt; margin-bottom: 2px; }
+
+    /* Certifications */
+    .cert-list { margin: 0; padding-left: 16px; }
+    .cert-list li { font-size: 8.5pt; margin-bottom: 2px; }
+
+    hr.divider {
+      border: none;
+      border-top: 1.5px solid #2C2C2C;
+      margin: 4px 0 6px 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1 class="name"><span style="font-weight:300;">HARSH</span> <span style="font-weight:700; color:#333333;">GOYAL</span></h1>
+    <div class="tagline">IIM Sirmaur MBA with hands on venture operations, multi city supply chain sourcing, and working capital modeling</div>
+    <div class="contact">
+      <span>+91 97174 56320</span>
+      <span>harshgoel551@gmail.com</span>
+      <span>linkedin.com/in/harsh-goyal-582b1a165</span>
+      
+      <span>New Delhi, India</span>
+    </div>
+    <hr class="divider">
+  </div>
+
+  
+    <div class="section">
+      <div class="spaced-header">WHY I FIT THIS ROLE AT TARGET COMPANY</div>
+      <div class="why-body">Category and operations management is about one thing: getting the right product to the right place at the right cost, and doing it consistently. I have done exactly that.
+
+When I founded <strong>Naraina Jewellers</strong>, I personally traveled to <strong>Surat diamond cutting factories</strong>, <strong>Mumbai Zaveri Bazaar bullion houses</strong>, and <strong>Delhi wholesale markets</strong> to build a sourcing network from zero. I evaluated <strong>5+ manufacturing hubs</strong>, negotiated <strong>12+ vendor agreements</strong> with direct factory MOQs (bypassing middlemen), and modeled a <strong>Rs 25L+ working capital</strong> budget covering inventory, store renovation, and seasonal turnover.
+
+This was not a case study. I picked the retail store location by analyzing footfall patterns and competitor density. I finalized the brand name and visual identity. I managed store renovation contractors. I structured <strong>GST registrations</strong> and trade licensing. Every operational decision had a direct P&L consequence because it was my capital at risk.
+
+Before that, at <strong>Gandhi & Co.</strong>, I managed <strong>50+ active matters</strong> simultaneously with zero deadline defaults, negotiated <strong>15+ commercial agreements</strong>, and coordinated workflows across multiple stakeholders with competing priorities. My MBA from <strong>IIM Sirmaur</strong> trained me in unit economics, financial statement analysis, and quantitative problem solving. I score in the <strong>top 98.66%</strong> on quantitative aptitude.
+
+I bring the rare combination of genuine founder operations experience, structured contract negotiation skills, financial modeling proficiency in <strong>MS Excel and Tally</strong>, and the analytical rigor of an IIM MBA.</div>
+    </div>
+    
+  
+    <div class="section">
+      <div class="spaced-header">AGAINST THE 6 ROLE PILLARS</div>
+      <div class="pillar-grid">
+        
+          <div class="pillar-cell">
+            <h4>Supply Chain Sourcing & Vendor Management</h4>
+            <ul><li>Audited <strong>5+ manufacturing hubs</strong> across Surat, Mumbai, and Delhi, evaluating factory capacity and quality.</li><li>Negotiated <strong>12+ vendor agreements</strong> with diamond and bullion manufacturers, securing direct factory MOQs.</li><li>Bypassed intermediary markups by building <strong>direct manufacturer relationships</strong> across three procurement cities.</li><li>Evaluated diamond polishing defect rates, <strong>stone certification</strong> standards, and supplier delivery timelines.</li><li>Structured vendor SLAs covering minimum order quantities, <strong>payment terms</strong>, and quality rejection protocols.</li></ul>
+          </div>
+        
+          <div class="pillar-cell">
+            <h4>Category Planning & Product Assortment</h4>
+            <ul><li>Formulated <strong>product assortment strategy</strong> across fine jewellery, gold bullion, and loose diamond categories.</li><li>Assessed wholesale pricing, making charges, and <strong>credit structures</strong> across Mumbai bullion manufacturer networks.</li><li>Evaluated competitive retail assortments to identify <strong>margin opportunities</strong> in underserved product segments.</li><li>Structured category mix targeting optimal <strong>inventory turnover</strong> ratios across seasonal demand cycles.</li><li>Finalized supplier product catalogs and <strong>SKU specifications</strong> aligned to target customer demographics.</li></ul>
+          </div>
+        
+          <div class="pillar-cell">
+            <h4>Working Capital & Unit Economics Modeling</h4>
+            <ul><li>Modeled <strong>Rs 25L+ working capital</strong> allocation across inventory procurement, store setup, and operating reserves.</li><li>Built <strong>MS Excel financial models</strong> projecting cash flows, margin structures, and break even timelines.</li><li>Balanced capital allocation between <strong>upfront renovation</strong> costs and high value inventory working capital needs.</li><li>Forecasted seasonal inventory turnover rates to optimize <strong>procurement timing</strong> and minimize carrying costs.</li><li>Tracked cost per unit, <strong>retail margins</strong>, and vendor payment cycles using Tally ERP accounting workflows.</li></ul>
+          </div>
+        
+          <div class="pillar-cell">
+            <h4>Store Operations & Commercial Execution</h4>
+            <ul><li>Executed end to end <strong>retail store launch</strong>: site selection, brand naming, interior renovation, and licensing.</li><li>Analyzed footfall patterns and <strong>competitor density</strong> to finalize prime commercial retail store location.</li><li>Managed store renovation contractors, <strong>security vault</strong> specifications, and display fixture installations.</li><li>Structured <strong>GST registration</strong>, trade licensing, and statutory compliance filings for proprietorship setup.</li><li>Established operational controls covering <strong>daily inventory</strong> tracking, cash management, and vendor receivables.</li></ul>
+          </div>
+        
+          <div class="pillar-cell">
+            <h4>Contract Negotiation & Stakeholder Coordination</h4>
+            <ul><li>Negotiated <strong>15+ commercial agreements</strong> covering service contracts, vendor covenants, and settlement terms.</li><li>Managed <strong>50+ active matter briefs</strong> simultaneously, tracking deadlines and coordinating cross team workflows.</li><li>Conducted <strong>30+ client consultations</strong>, structuring solutions across competing stakeholder priorities.</li><li>Drafted risk allocation terms and <strong>termination covenants</strong> to protect commercial positions in vendor deals.</li><li>Coordinated multi party <strong>procurement workflows</strong> between manufacturers, logistics partners, and store teams.</li></ul>
+          </div>
+        
+          <div class="pillar-cell">
+            <h4>Market Research & Competitive Intelligence</h4>
+            <ul><li>Benchmarked <strong>3+ distribution channels</strong> at TATA AIG, analyzing market penetration and agent broker networks.</li><li>Conducted on site <strong>factory audits</strong> to assess manufacturing capacity, lead times, and quality certifications.</li><li>Analyzed regional wholesale <strong>pricing benchmarks</strong> across Surat, Mumbai, and Delhi procurement markets.</li><li>Evaluated customer demographics, <strong>purchase patterns</strong>, and local market preferences for retail positioning.</li><li>Synthesized vendor intelligence into <strong>procurement strategy</strong> briefs for inventory planning and reorder cycles.</li></ul>
+          </div>
+        
+      </div>
+    </div>
+    
+  <div class="section"><div class="spaced-header">PROFESSIONAL EXPERIENCE</div>
+        <div class="experience-item">
+          <div class="exp-header">
+            <span><strong class="exp-title">Founder (Independent Venture)</strong> &nbsp;|&nbsp; <span class="exp-org">Naraina Jewellers (Proprietorship)</span></span>
+            <span class="exp-date">2025 – 2026</span>
+          </div>
+          
+          <ul><li><strong>Founded retail jewellery venture</strong>, driving location selection, naming, brand identity, and licensing.</li><li><strong>Modeled Rs 25L+ inventory and capital budget</strong>, forecasting unit economics, retail margins, and turns.</li><li><strong>Audited factories across Surat, Mumbai, and Delhi</strong>, negotiating minimum order quantities with makers.</li><li><strong>Negotiated 12+ vendor agreements</strong>, establishing diamond and bullion supply chains for store launch.</li></ul>
+        </div>
+      
+        <div class="experience-item">
+          <div class="exp-header">
+            <span><strong class="exp-title">Associate</strong> &nbsp;|&nbsp; <span class="exp-org">Gandhi & Co.</span></span>
+            <span class="exp-date">May 2022 – Aug 2026</span>
+          </div>
+          
+          <ul><li><strong>Advised commercial clients on 30+ disputes</strong>, managing 90% High Court litigation briefs and settlements.</li></ul>
+        </div>
+      
+        <div class="experience-item">
+          <div class="exp-header">
+            <span><strong class="exp-title">Sales & Marketing Intern (Internship)</strong> &nbsp;|&nbsp; <span class="exp-org">TATA AIG General Insurance</span></span>
+            <span class="exp-date">Apr 2021 – Jun 2021</span>
+          </div>
+          
+          <ul><li><strong>Conducted sales channel assessments across 3+ hubs</strong>, mapping broker incentive structures and reach.</li></ul>
+        </div>
+      </div>
+  <div class="section">
+          <div class="exp-header">
+            <span><strong class="exp-title">Independent Projects & Ventures (Independent Venture)</strong> &nbsp;|&nbsp; <span class="exp-org">Naraina Jewellers</span></span>
+            <span class="exp-date">2025 – 2026</span>
+          </div>
+          
+          <ul><li><strong>Naraina Jewellers (Independent Venture):</strong> Full ownership of store site diligence, renovation, and supply.</li></ul>
+        </div>
+
+  <div class="section">
+    <div class="spaced-header">EDUCATION</div>
+    
+      <div class="edu-item">
+        <div class="edu-header">
+          <span><strong class="edu-deg">MBA, General Management</strong> &nbsp;|&nbsp; <span class="edu-inst">IIM Sirmaur</span></span>
+          <span class="edu-date">2022</span>
+        </div>
+        <div class="edu-desc">Member, D2C Igniters' Club   |   Quantitative and strategic management curriculum</div>
+      </div>
+    
+      <div class="edu-item">
+        <div class="edu-header">
+          <span><strong class="edu-deg">B.A. LLB (Hons.)</strong> &nbsp;|&nbsp; <span class="edu-inst">Amity Law School, Delhi (IP University)</span></span>
+          <span class="edu-date">2018</span>
+        </div>
+        <div class="edu-desc">First Division, 5 Year Integrated Programme   |   Chairperson Model United Nations</div>
+      </div>
+    
+      <div class="edu-item">
+        <div class="edu-header">
+          <span><strong class="edu-deg">Senior Secondary (12th Board)</strong> &nbsp;|&nbsp; <span class="edu-inst">Aggarsain Public School, Kurukshetra</span></span>
+          <span class="edu-date">2013</span>
+        </div>
+        <div class="edu-desc">CBSE Board Examination</div>
+      </div>
+    
+  </div>
+
+  
+    <div class="section">
+      <div class="spaced-header">NUMBERS THAT MATTER FOR THIS ROLE</div>
+      
+      <div class="numbers-grid">
+        <div class="number-item"><strong>Vendor Network:</strong> 12+ vendor agreements negotiated across 3 major manufacturing cities</div><div class="number-item"><strong>Capital Modeling:</strong> Rs 25L+ working capital allocation modeled for retail venture launch</div><div class="number-item"><strong>Operations Scale:</strong> 50+ simultaneous matter briefs managed with zero deadline defaults</div><div class="number-item"><strong>Quantitative Aptitude:</strong> Top 98.66 percentile nationwide in 3rd International Mathematics Olympiad</div>
+      </div>
+    </div>
+    
+  
+    <div class="section">
+      <div class="spaced-header">TOOLS AND TECHNICAL SKILLS</div>
+      <div class="tools-grouped">
+        <div class="tool-row"><strong>Financial and Inventory Management:</strong> MS Excel, Tally ERP, Financial Modeling, Working Capital Analysis</div><div class="tool-row"><strong>Operations and Vendor Management:</strong> Vendor SLA Tracking, Inventory Systems, Procurement Planning, Quality Audit Tools</div><div class="tool-row"><strong>Market Research and Analysis:</strong> Competitive Benchmarking, Market Intelligence, Pricing Analysis, Demographics Research</div>
+      </div>
+    </div>
+    
+  
+    <div class="section">
+      <div class="spaced-header">CERTIFICATIONS</div>
+      <ul class="cert-list">
+        <li><strong>Rajasthan Judicial Services Preliminary Examination</strong> | Cleared competitive state judicial examination (2024)</li><li><strong>All India Bar Examination (AIBE)</strong> | Bar Council of India qualification for legal practice (2021)</li><li><strong>3rd International Mathematics Olympiad</strong> | Scored 98.66 percentile nationwide (2009)</li>
+      </ul>
+    </div>
+    
+</body>
+</html>
+  

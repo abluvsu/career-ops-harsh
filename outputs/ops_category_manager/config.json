@@ -1,0 +1,283 @@
+{
+  "CV_OUTPUT": "Harsh_Goyal_Ops_Category_Manager.docx",
+  "TAGLINE": "IIM Sirmaur MBA with hands on venture operations, multi city supply chain sourcing, and working capital modeling",
+  "SUMMARY": "IIM Sirmaur MBA and former founder of Naraina Jewellers, where I built a retail jewellery venture from scratch: sourced directly from diamond factories in Surat, bullion houses in Mumbai, and wholesale markets in Delhi, negotiated 12+ vendor MOQs, modeled Rs 25L+ working capital, and executed store setup end to end. 4 years at Gandhi & Co. managing 50+ commercial matters taught me structured project execution, contract negotiation, and stakeholder management. Brings operational grit, vendor management depth, and financial modeling discipline to category and operations management.",
+  "TOOLS": "MS Excel, Tally ERP, Inventory Management Systems, Financial Modeling, Vendor Management Platforms, Market Research Databases, Competitive Benchmarking, Procurement Planning",
+  "COMPETENCIES": [
+    [
+      "Supply Chain Sourcing",
+      "Vendor Management",
+      "Category Planning"
+    ],
+    [
+      "Working Capital Modeling",
+      "Unit Economics (Excel)",
+      "Inventory Optimization"
+    ],
+    [
+      "Retail Operations",
+      "Contract Negotiation",
+      "Tally ERP and Accounting"
+    ]
+  ],
+  "EXPERIENCE": [
+    {
+      "id": "naraina_jewellers",
+      "title": "Founder",
+      "organization": "Naraina Jewellers (Proprietorship)",
+      "dates": "2025 – 2026",
+      "type": "independent",
+      "label": "(Independent Venture)",
+      "bullets": [
+        "**Founded retail jewellery venture**, driving location selection, naming, brand identity, and licensing.",
+        "**Modeled Rs 25L+ inventory and capital budget**, forecasting unit economics, retail margins, and turns.",
+        "**Audited factories across Surat, Mumbai, and Delhi**, negotiating minimum order quantities with makers.",
+        "**Negotiated 12+ vendor agreements**, establishing diamond and bullion supply chains for store launch."
+      ],
+      "minBullets": 4
+    },
+    {
+      "id": "gandhi_co",
+      "title": "Associate",
+      "organization": "Gandhi & Co.",
+      "dates": "May 2022 – Aug 2026",
+      "type": "full-time",
+      "bullets": [
+        "**Advised commercial clients on 30+ disputes**, managing 90% High Court litigation briefs and settlements."
+      ]
+    },
+    {
+      "id": "tata_aig",
+      "title": "Sales & Marketing Intern",
+      "organization": "TATA AIG General Insurance",
+      "dates": "Apr 2021 – Jun 2021",
+      "type": "internship",
+      "label": "(Internship)",
+      "bullets": [
+        "**Conducted sales channel assessments across 3+ hubs**, mapping broker incentive structures and reach."
+      ]
+    }
+  ],
+  "PROJECTS": [
+    {
+      "id": "naraina_project",
+      "title": "Independent Projects & Ventures",
+      "organization": "Naraina Jewellers",
+      "dates": "2025 – 2026",
+      "type": "independent",
+      "label": "(Independent Venture)",
+      "bullets": [
+        "**Naraina Jewellers (Independent Venture):** Full ownership of store site diligence, renovation, and supply."
+      ]
+    }
+  ],
+  "COMPANY": "Target Company",
+  "ROLE": "Operations & Category Manager",
+  "THEME_COLOR": "#333333",
+  "BULLET_SPACING": 33,
+  "LAST_BULLET_SPACING": 6,
+  "HEADER_BEFORE_SPACING": 82,
+  "HEADER_AFTER_SPACING": 31,
+  "ROLE_BEFORE_SPACING": 59,
+  "ROLE_AFTER_SPACING": 20,
+  "CERT_SPACING": 32,
+  "EDU_SPACING": 34,
+  "PAGE_MARGIN_TOP": 670,
+  "PAGE_MARGIN_BOTTOM": 600,
+  "PAGE_MARGIN_LEFT": 704,
+  "PAGE_MARGIN_RIGHT": 704,
+  "SCHEMA_VERSION": 3,
+  "FORMAT_TYPE": "extended",
+  "PROFILE": {
+    "name": {
+      "first": "Harsh",
+      "last": "Goyal",
+      "full": "Harsh Goyal"
+    },
+    "contact": {
+      "phone": "+91 97174 56320",
+      "email": "harshgoel551@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/harsh-goyal-582b1a165/",
+      "linkedinShort": "linkedin.com/in/harsh-goyal-582b1a165",
+      "portfolio": "",
+      "portfolioShort": "",
+      "defaultLocation": "New Delhi, India"
+    },
+    "experience": [
+      {
+        "id": "naraina_jewellers",
+        "title": "Founder",
+        "organization": "Naraina Jewellers (Proprietorship)",
+        "dates": "2025 – 2026",
+        "type": "independent",
+        "label": "(Independent Venture)",
+        "intro": "Founded and operated retail jewellery venture end to end: multi city supplier sourcing across Surat, Mumbai, and Delhi, MOQ negotiations with diamond and bullion manufacturers, store site finalization, brand strategy, and retail renovation. Exited after completing commercial launch setup."
+      },
+      {
+        "id": "gandhi_co",
+        "title": "Associate",
+        "organization": "Gandhi & Co.",
+        "dates": "May 2022 – Aug 2026",
+        "type": "full-time",
+        "minBullets": 4,
+        "intro": "Active dispute practice with 90% concentration before the High Court. Owned complete 5 stage case lifecycle: strategy, precedent research, drafting, registry filing, and courtroom oral arguments."
+      },
+      {
+        "id": "tata_aig",
+        "title": "Sales & Marketing Intern",
+        "organization": "TATA AIG General Insurance",
+        "dates": "Apr 2021 – Jun 2021",
+        "type": "internship",
+        "label": "(Internship)",
+        "intro": "Conducted insurance distribution channel assessments across agency and broker networks to identify underserved commercial market segments."
+      }
+    ],
+    "education": [
+      {
+        "degree": "MBA, General Management",
+        "institution": "IIM Sirmaur",
+        "year": "2022",
+        "description": "Member, D2C Igniters' Club   |   Quantitative and strategic management curriculum"
+      },
+      {
+        "degree": "B.A. LLB (Hons.)",
+        "institution": "Amity Law School, Delhi (IP University)",
+        "year": "2018",
+        "description": "First Division, 5 Year Integrated Programme   |   Chairperson Model United Nations"
+      },
+      {
+        "degree": "Senior Secondary (12th Board)",
+        "institution": "Aggarsain Public School, Kurukshetra",
+        "year": "2013",
+        "description": "CBSE Board Examination"
+      }
+    ],
+    "certifications": [
+      {
+        "title": "Rajasthan Judicial Services Preliminary Examination",
+        "details": "Cleared competitive state judicial examination (2024)"
+      },
+      {
+        "title": "All India Bar Examination (AIBE)",
+        "details": "Bar Council of India qualification for legal practice (2021)"
+      },
+      {
+        "title": "3rd International Mathematics Olympiad",
+        "details": "Scored 98.66 percentile nationwide (2009)"
+      }
+    ],
+    "skills": [
+      "High Court litigation",
+      "Pleadings drafting",
+      "Statutory interpretation",
+      "Contract Act and NI Act",
+      "Supply chain sourcing",
+      "Vendor MOQ negotiations",
+      "Retail store operations",
+      "Unit economics modeling",
+      "MS Excel",
+      "Tally ERP",
+      "Commercial due diligence"
+    ],
+    "constants": {
+      "LOCATION": "New Delhi, India"
+    }
+  },
+  "PORTFOLIO_URL_REQUIRED": false,
+  "PROOF_BANK_PATH": "C:\\Users\\mba06\\Dropbox\\My PC (MSI)\\Documents\\Claude\\Projects\\Career Ops\\career-ops-harsh\\reference\\proof-bank.md",
+  "WHY_I_FIT": "Category and operations management is about one thing: getting the right product to the right place at the right cost, and doing it consistently. I have done exactly that.\n\nWhen I founded **Naraina Jewellers**, I personally traveled to **Surat diamond cutting factories**, **Mumbai Zaveri Bazaar bullion houses**, and **Delhi wholesale markets** to build a sourcing network from zero. I evaluated **5+ manufacturing hubs**, negotiated **12+ vendor agreements** with direct factory MOQs (bypassing middlemen), and modeled a **Rs 25L+ working capital** budget covering inventory, store renovation, and seasonal turnover.\n\nThis was not a case study. I picked the retail store location by analyzing footfall patterns and competitor density. I finalized the brand name and visual identity. I managed store renovation contractors. I structured **GST registrations** and trade licensing. Every operational decision had a direct P&L consequence because it was my capital at risk.\n\nBefore that, at **Gandhi & Co.**, I managed **50+ active matters** simultaneously with zero deadline defaults, negotiated **15+ commercial agreements**, and coordinated workflows across multiple stakeholders with competing priorities. My MBA from **IIM Sirmaur** trained me in unit economics, financial statement analysis, and quantitative problem solving. I score in the **top 98.66%** on quantitative aptitude.\n\nI bring the rare combination of genuine founder operations experience, structured contract negotiation skills, financial modeling proficiency in **MS Excel and Tally**, and the analytical rigor of an IIM MBA.",
+  "ROLE_PILLARS": [
+    {
+      "title": "Supply Chain Sourcing & Vendor Management",
+      "bullets": [
+        "Audited **5+ manufacturing hubs** across Surat, Mumbai, and Delhi, evaluating factory capacity and quality.",
+        "Negotiated **12+ vendor agreements** with diamond and bullion manufacturers, securing direct factory MOQs.",
+        "Bypassed intermediary markups by building **direct manufacturer relationships** across three procurement cities.",
+        "Evaluated diamond polishing defect rates, **stone certification** standards, and supplier delivery timelines.",
+        "Structured vendor SLAs covering minimum order quantities, **payment terms**, and quality rejection protocols."
+      ]
+    },
+    {
+      "title": "Category Planning & Product Assortment",
+      "bullets": [
+        "Formulated **product assortment strategy** across fine jewellery, gold bullion, and loose diamond categories.",
+        "Assessed wholesale pricing, making charges, and **credit structures** across Mumbai bullion manufacturer networks.",
+        "Evaluated competitive retail assortments to identify **margin opportunities** in underserved product segments.",
+        "Structured category mix targeting optimal **inventory turnover** ratios across seasonal demand cycles.",
+        "Finalized supplier product catalogs and **SKU specifications** aligned to target customer demographics."
+      ]
+    },
+    {
+      "title": "Working Capital & Unit Economics Modeling",
+      "bullets": [
+        "Modeled **Rs 25L+ working capital** allocation across inventory procurement, store setup, and operating reserves.",
+        "Built **MS Excel financial models** projecting cash flows, margin structures, and break even timelines.",
+        "Balanced capital allocation between **upfront renovation** costs and high value inventory working capital needs.",
+        "Forecasted seasonal inventory turnover rates to optimize **procurement timing** and minimize carrying costs.",
+        "Tracked cost per unit, **retail margins**, and vendor payment cycles using Tally ERP accounting workflows."
+      ]
+    },
+    {
+      "title": "Store Operations & Commercial Execution",
+      "bullets": [
+        "Executed end to end **retail store launch**: site selection, brand naming, interior renovation, and licensing.",
+        "Analyzed footfall patterns and **competitor density** to finalize prime commercial retail store location.",
+        "Managed store renovation contractors, **security vault** specifications, and display fixture installations.",
+        "Structured **GST registration**, trade licensing, and statutory compliance filings for proprietorship setup.",
+        "Established operational controls covering **daily inventory** tracking, cash management, and vendor receivables."
+      ]
+    },
+    {
+      "title": "Contract Negotiation & Stakeholder Coordination",
+      "bullets": [
+        "Negotiated **15+ commercial agreements** covering service contracts, vendor covenants, and settlement terms.",
+        "Managed **50+ active matter briefs** simultaneously, tracking deadlines and coordinating cross team workflows.",
+        "Conducted **30+ client consultations**, structuring solutions across competing stakeholder priorities.",
+        "Drafted risk allocation terms and **termination covenants** to protect commercial positions in vendor deals.",
+        "Coordinated multi party **procurement workflows** between manufacturers, logistics partners, and store teams."
+      ]
+    },
+    {
+      "title": "Market Research & Competitive Intelligence",
+      "bullets": [
+        "Benchmarked **3+ distribution channels** at TATA AIG, analyzing market penetration and agent broker networks.",
+        "Conducted on site **factory audits** to assess manufacturing capacity, lead times, and quality certifications.",
+        "Analyzed regional wholesale **pricing benchmarks** across Surat, Mumbai, and Delhi procurement markets.",
+        "Evaluated customer demographics, **purchase patterns**, and local market preferences for retail positioning.",
+        "Synthesized vendor intelligence into **procurement strategy** briefs for inventory planning and reorder cycles."
+      ]
+    }
+  ],
+  "NUMBERS_THAT_MATTER": [
+    {
+      "label": "Vendor Network",
+      "value": "12+ vendor agreements negotiated across 3 major manufacturing cities"
+    },
+    {
+      "label": "Capital Modeling",
+      "value": "Rs 25L+ working capital allocation modeled for retail venture launch"
+    },
+    {
+      "label": "Operations Scale",
+      "value": "50+ simultaneous matter briefs managed with zero deadline defaults"
+    },
+    {
+      "label": "Quantitative Aptitude",
+      "value": "Top 98.66 percentile nationwide in 3rd International Mathematics Olympiad"
+    }
+  ],
+  "TOOLS_GROUPED": [
+    {
+      "category": "Financial and Inventory Management",
+      "items": "MS Excel, Tally ERP, Financial Modeling, Working Capital Analysis"
+    },
+    {
+      "category": "Operations and Vendor Management",
+      "items": "Vendor SLA Tracking, Inventory Systems, Procurement Planning, Quality Audit Tools"
+    },
+    {
+      "category": "Market Research and Analysis",
+      "items": "Competitive Benchmarking, Market Intelligence, Pricing Analysis, Demographics Research"
+    }
+  ]
+}
